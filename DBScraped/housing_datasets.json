@@ -1,0 +1,1009 @@
+{
+  "metadata": {
+    "topic": "housing",
+    "count": 125,
+    "scraped_at": "2024-10-23T23:43:16.675795"
+  },
+  "datasets": [
+    {
+      "topic": "housing",
+      "startdate": "jan 2017",
+      "enddate": "oct 2024",
+      "title": "Resale flat prices based on registration date from Jan-2017 onwards",
+      "url": "/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2011",
+      "enddate": "sep 2023",
+      "title": "CEA Salesperson Information",
+      "url": "/datasets/d_07c63be0f37e6e59c07a4ddc2fd87fcb/view",
+      "organization": "CEA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2015",
+      "enddate": "dec 2016",
+      "title": "Resale Flat Prices (Based on Registration Date), From Jan 2015 to Dec 2016",
+      "url": "/datasets/d_ea9ed51da2787afaf8e51f827c304208/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "mar 2012",
+      "enddate": "dec 2014",
+      "title": "Resale Flat Prices (Based on Registration Date), From Mar 2012 to Dec 2014",
+      "url": "/datasets/d_2d5ff9ea31397b66239f245f57751537/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2000",
+      "enddate": "feb 2012",
+      "title": "Resale Flat Prices (Based on Approval Date), 2000 - Feb 2012",
+      "url": "/datasets/d_43f493c6c50d54243cc1eab0df142d6a/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1990",
+      "enddate": "dec 1999",
+      "title": "Resale Flat Prices (Based on Approval Date), 1990 - 1999",
+      "url": "/datasets/d_ebc5ab87086db484f88045b47411ebc5/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1937",
+      "enddate": "mar 2024",
+      "title": "HDB Property Information",
+      "url": "/datasets/d_17f5382f26140b1fdae0ba2ef6239d2f/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2017",
+      "enddate": "may 2022",
+      "title": "CEA Salespersons’ Property Transaction Records (residential)",
+      "url": "/datasets/d_ee7e46d3c57f7865790704632b0aef71/view",
+      "organization": "CEA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2021",
+      "enddate": "sep 2024",
+      "title": "Renting Out of Flats 2024 (CSV)",
+      "url": "/datasets/d_c9f57187485a850908655db0e8cfe651/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "dec 2020",
+      "enddate": "aug 2024",
+      "title": "HDB Carpark Information",
+      "url": "/datasets/d_23f946fa557947f93a8043bbef41dd09/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Price Range of HDB Flats Offered",
+      "url": "/datasets/d_2d493bdcc1d9a44828b6e71cb095b88d/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1990",
+      "enddate": "jun 2024",
+      "title": "HDB Resale Price Index (1Q2009 = 100), Quarterly",
+      "url": "/datasets/d_14f63e595975691e7c24a27ae4c07c79/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2007",
+      "enddate": "jun 2024",
+      "title": "Median Resale Prices for Registered Applications by Town and Flat Type",
+      "url": "/datasets/d_b51323a474ba789fb4cc3db58a3116d4/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2007",
+      "enddate": "mar 2022",
+      "title": "Applications registered for resale flats and rental flats",
+      "url": "/datasets/d_c47771d51ac7d86ac300835b27848ff0/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1960",
+      "enddate": "dec 2021",
+      "title": "Demand for Rental and Sold Flats",
+      "url": "/datasets/d_4b4ee36346b27fe35c529588900340b2/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2003",
+      "enddate": "dec 2018",
+      "title": "HDB Resident Population by Geographical Distribution",
+      "url": "/datasets/d_0a6c6d71f6fa14e2d27e406f1d018439/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2006",
+      "enddate": "mar 2022",
+      "title": "Number of Sold and Rented HDB Residential Units",
+      "url": "/datasets/d_67966e5fd5dce14cf9fa5f0bc5164faf/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "dec 2023",
+      "enddate": "jun 2024",
+      "title": "Listing of Registered Contractors",
+      "url": "/datasets/d_dcda79be4aded5f9e769b8e23ff69b47/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2007",
+      "enddate": "jun 2024",
+      "title": "Number of Resale Applications Registered by Flat Type",
+      "url": "/datasets/d_02aa4bb51bc674f3a2d0b9bb6911d934/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1977",
+      "enddate": "dec 2017",
+      "title": "Flats Constructed By Housing And Development Board, Annual",
+      "url": "/datasets/d_f43ed2489fad49824702c2169561a432/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "Listing of Building Energy Performance Data 2020",
+      "url": "/datasets/d_e86d8a219d0936dbb321ade068a381da/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2018",
+      "title": "Age of HDB Resident Population by Geographical Distribution",
+      "url": "/datasets/d_c6edbb9c9c3ed1642a89e7515a6baca7/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "dec 2023",
+      "enddate": "jun 2024",
+      "title": "Listing of Public Sector Panels of Consultants",
+      "url": "/datasets/d_a347a40f7b073e56227a29eb3c9387ff/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2006",
+      "enddate": "mar 2022",
+      "title": "Resale Transactions by Flat Type (based on registered cases)",
+      "url": "/datasets/d_27af98d638a80103319cb7499c220fe6/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "Listing of Building Energy Performance Data for Commercial Buildings",
+      "url": "/datasets/d_16e7a5921aef24f610f808b16d1480ce/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2006",
+      "enddate": "mar 2022",
+      "title": "Number of Sold and Rented HDB Commercial Properties",
+      "url": "/datasets/d_a32043811ffb2e44c861fa24c4c425d1/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Completion Status of HDB Residential Units by Town/Estate",
+      "url": "/datasets/d_9bbcd0c9b0351c7f41c9bfdcdc746668/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2007",
+      "enddate": "jan 2022",
+      "title": "Completion Status of HDB Residential Developments",
+      "url": "/datasets/d_582672d2f972194786d01efe151892b7/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1987",
+      "enddate": "dec 2018",
+      "title": "HDB Resident Population",
+      "url": "/datasets/d_740bc018cfe20d3d6f6c53fe6a69fa6b/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2003",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Geographical Distribution",
+      "url": "/datasets/d_4180067b350bc9839a4cea487841d5d1/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "dec 2023",
+      "enddate": "jun 2024",
+      "title": "Listing of Licensed Builders",
+      "url": "/datasets/d_19573c579879be15623f2e1e3854926d/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2006",
+      "enddate": "mar 2022",
+      "title": "Number of Sold and Rented HDB Social Communal Facilities",
+      "url": "/datasets/d_2657c8b576a51b7a944d22187001e8b1/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Dwelling Units under HDB's Management, by Town and Flat Type",
+      "url": "/datasets/d_07b1eeeb22efdf7faf5bd6a13667359d/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Applications Received to Finance Purchases/Refinance Mortgage Loan with Bank Loans",
+      "url": "/datasets/d_fbb057402a1d4a953a9b46babbdbf1fc/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "nov 2015",
+      "enddate": "nov 2017",
+      "title": "Listing of Temporary Occupation Permits (TOP) Issued",
+      "url": "/datasets/d_05d95877b164cc8f0f34ca4dc9fd4bce/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1975",
+      "enddate": "mar 2020",
+      "title": "Private Residential Property Price Index By Type Of Property, (Base Quarter 2009-Q1 = 100)",
+      "url": "/datasets/d_c0c26484c655113b0ab5abaa0a49952b/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1975",
+      "enddate": "mar 2020",
+      "title": "Private Residential Property Price Index (Base Quarter 2009-Q1 = 100)",
+      "url": "/datasets/d_f76411aa34d98559b6194419d796ce59/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2006",
+      "enddate": "mar 2018",
+      "title": "Number of Sold and Rented HDB Industrial Properties",
+      "url": "/datasets/d_e93c058371800bf3b708000ff47bc048/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Age of HDB Resident Population by Flat Type",
+      "url": "/datasets/d_5232a4da63a47af020617483693d5195/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Bookings for New Flats",
+      "url": "/datasets/d_e6079cb5bf0c2450372b1054f37e6e79/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "HDB Households by Flat Type",
+      "url": "/datasets/d_db69c88a1ff684356b8b38dc0e9b432c/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2018",
+      "title": "Employed HDB Resident Population by Occupation and Age",
+      "url": "/datasets/d_fcfc5a44d2e3d783b895f4b4016b84d9/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2010",
+      "enddate": "mar 2022",
+      "title": "CPF Housing Grants Awarded by Type",
+      "url": "/datasets/d_a223380e5856cf06f7eac223e5902230/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Age and Sex",
+      "url": "/datasets/d_c24f6b8078ee721f7191906ca1b3a367/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "mar 2020",
+      "enddate": "jul 2023",
+      "title": "Renovation Contractors who can carry out Renovation works by Company Name",
+      "url": "/datasets/d_9973d2c119ed4dd1560aebf8f0829b86/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2004",
+      "enddate": "may 2020",
+      "title": "Construction Material Market Prices, Monthly",
+      "url": "/datasets/d_4cbd623e64be3b47d3248d263db7ebdc/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2003",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Flat Type",
+      "url": "/datasets/d_6c678a9e6cf49086c1fea012c40ceafe/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "nov 2015",
+      "enddate": "nov 2017",
+      "title": "Listing of Temporary Occupation Permits (TOPs) Issued",
+      "url": "/datasets/d_caa71478b31d605df2024b934aea08b8/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Ambulant Status",
+      "url": "/datasets/d_995d47e4632e72e4f0a589ed5e51bd36/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2007",
+      "enddate": "sep 2021",
+      "title": "Renting Out of Flat Approvals by Flat Type, Quarterly",
+      "url": "/datasets/d_dad4567fc02596774010f765567780e3/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1987",
+      "enddate": "dec 2018",
+      "title": "HDB Resident Population Annualised Growth Rate",
+      "url": "/datasets/d_6961d4bc056dadcca47e23127a3ac174/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2018",
+      "title": "Employed HDB Resident Population by Occupation and Sex",
+      "url": "/datasets/d_9c6271959306ec3d2726f1fc296794e8/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2003",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Ethnic Group",
+      "url": "/datasets/d_1a5bb230195b27f5982682d4bb66bcb0/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2019",
+      "enddate": "dec 2050",
+      "title": "Register of Architects",
+      "url": "/datasets/d_d77de0f78ca589a5c61da7a60fdee6ba/view",
+      "organization": "BOA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2014",
+      "title": "Available and Vacant Private Residential Properties, Annual",
+      "url": "/datasets/d_28b999e22ae1e23caf80172227d23830/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Percentage of HDB Households by Flat Type and Ethnic Group",
+      "url": "/datasets/d_6f0b9b4e1a64a09f5b76c8a2c1234d2d/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2003",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Marital Status",
+      "url": "/datasets/d_76eb0a0d52db203284c50ccfba84c815/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2019",
+      "enddate": "dec 2050",
+      "title": "Register of Architecture Firms",
+      "url": "/datasets/d_d5c0a4ffd076a3e40d772275619bbb66/view",
+      "organization": "BOA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Household Size by Flat Type",
+      "url": "/datasets/d_668967b5fce80dc42255a3ac1671f97c/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Average and Median Size of HDB Households by Flat Type",
+      "url": "/datasets/d_3b626812cc3ea5cafa20490bb996eb0b/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2018",
+      "title": "Role and Relationship of HDB Resident Population with Owner or Registered Tenant",
+      "url": "/datasets/d_307210f9b1557b86752229b499046726/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2007",
+      "enddate": "jan 2022",
+      "title": "Completion Status of HDB Commercial Developments",
+      "url": "/datasets/d_4b69ac0ff084e96f03197ad346248918/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "HDB Households by Ethnic Group",
+      "url": "/datasets/d_666b7f6884acb34320145917e61016aa/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Cumulative Dwelling Units Completed Since 1960",
+      "url": "/datasets/d_caa8f8f91cb000f4b2c4a52fd22d516c/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Age of HDB Resident Population by Ethnic Group",
+      "url": "/datasets/d_c5f8097e161feac48fd76a8577844fc9/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2003",
+      "enddate": "dec 2018",
+      "title": "HDB Elderly and Future Elderly Resident Population by Tenure Type",
+      "url": "/datasets/d_326034ad1aa58165096567150dd8bde9/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1988",
+      "enddate": "sep 2019",
+      "title": "Available and Vacant Private Residential Properties, Quarterly",
+      "url": "/datasets/d_8d8ce38629358905b01276058dbcded0/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Average and Median Age of HDB Resident Population by Flat Type",
+      "url": "/datasets/d_26bcaadd552d0b77bb13ea9c671bac6b/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1960",
+      "enddate": "dec 2021",
+      "title": "No of Dwelling Units and Commercial Developments built",
+      "url": "/datasets/d_f97971e730d675ae046cc75690468c02/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Gender Composition of HDB Resident Population Aged 15 Years and Above by Ethnic Group",
+      "url": "/datasets/d_ec6b85ff143d7a62597fac7817ec3a67/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2018",
+      "enddate": "dec 2029",
+      "title": "Register of foreign architects",
+      "url": "/datasets/d_521e0b73946484e83269d8ab4c7889cd/view",
+      "organization": "BOA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Cumulative HDB, Government or Institutional Facilities Completed Since 1960",
+      "url": "/datasets/d_5f446ba7edac1ef0e606195606a41a6a/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Number of Income Earners by Flat Type",
+      "url": "/datasets/d_6c8c70ffa11110434d3fd6a4e2d67416/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "aug 1992",
+      "enddate": "apr 2016",
+      "title": "Vacant Sites Sold By URA",
+      "url": "/datasets/d_e225b635fbe3ecf5b378447e4b517939/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2004",
+      "enddate": "may 2020",
+      "title": "Ready Mixed Concrete Price",
+      "url": "/datasets/d_1950757505c3e07ab7f23d0ad2b832ef/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Gender Composition of HDB Resident Population Aged 15 Years and Above by Flat Type",
+      "url": "/datasets/d_473f502212568e7cd7c55e699a998f1d/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Average and Median Size of HDB Households by Ethnic Group",
+      "url": "/datasets/d_abf82c79fc908b12bb8d631e6853e98f/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Cumulative Shops and Recreational Facilities Completed Since 1960",
+      "url": "/datasets/d_07561cf169a8608fd97c5a6eb112ba60/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Gender Composition of HDB Resident Population by Ethnic Group",
+      "url": "/datasets/d_450e4211e777260f5dcdf8f81987b35a/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jun 1971",
+      "enddate": "jul 2024",
+      "title": "Professional Engineers with Practising Certificates",
+      "url": "/datasets/d_bcab7e28ab6603edfbe2a15a7656f9ce/view",
+      "organization": "BCA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Number of applications for HDB Loan Eligibility Letters",
+      "url": "/datasets/d_38ec7e5cd735d597ab85765d2ef1a39b/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Economically Active HDB Resident Population by Flat Type",
+      "url": "/datasets/d_bdc3b0ce289a7f95309b82454cf2c366/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "HDB Resident Population Aged 15 Years and Above by Flat Type",
+      "url": "/datasets/d_cb55223f678fb7702181fc95c587e03f/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Household Size by Ethnic Group",
+      "url": "/datasets/d_a5095643f088aafc71d5aeae09c1f08f/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2006",
+      "enddate": "mar 2022",
+      "title": "Active cases of renting out of flat",
+      "url": "/datasets/d_2f2c29c3f821461f36c24c6c1dbbe059/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Average and Median Age of HDB Population by Ethnic Group",
+      "url": "/datasets/d_a24664d0ad7d21edfc7245e0195d7503/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Cumulative HDB Commercial Properties Completed Since 1960",
+      "url": "/datasets/d_007b79018e47094e8cd62bf6f6d9ed8e/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Number of approved applications for financial assistance measures by financial year",
+      "url": "/datasets/d_c2b211174c4e0f546b4d8e92c6aaf365/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Labour Force Participation Rate of HDB Resident Population by Ethnic Group",
+      "url": "/datasets/d_9d46d391dba808d7b171d66204a30aa7/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Average Number of Income Earners by Flat Type",
+      "url": "/datasets/d_1a2ea5e9309802413f650aba1b103166/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Number of Income Earners by Ethnic Group",
+      "url": "/datasets/d_b794139ebf82ed3e087b22dda685bd84/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2014",
+      "enddate": "sep 2018",
+      "title": "Supply of Executive Condominiums in the Pipeline by Development Status, Quarterly",
+      "url": "/datasets/d_4e8073b6cf272998f14fd970a24c1639/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Available and Vacant Commercial Properties, Annually",
+      "url": "/datasets/d_d23a8c26d4a9530d651fbe0248a3f1fc/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "HDB Resident Population Aged 15 Years and Above by Ethnic Group",
+      "url": "/datasets/d_2f840db99e6aa00de54447a1ed81e597/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Old-age Dependency Ratio of HDB Resident Population by Ethnic Group",
+      "url": "/datasets/d_c99a6b0384bcfc0d7f7a175da170f7ca/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Gender Composition of HDB Resident Population by Flat Type",
+      "url": "/datasets/d_6f287a0e35413557148e148e8e32ca31/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Economically Active HDB Resident Population by Ethnic Group",
+      "url": "/datasets/d_c0f741f3d30fcd87af0b4e40d6855bcf/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Supply of Executive Condominiums in the Pipeline by Development Status, Annual",
+      "url": "/datasets/d_50cf4a1b6c54d5093cf9af66a1f06590/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2014",
+      "enddate": "sep 2018",
+      "title": "Available and Vacant Commercial Properties, Quarterly",
+      "url": "/datasets/d_3adaa5fb4dcb4e290ca9ea1ffce325ef/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Supply of Private Residential Properties in the Pipeline by Development Status, Annually",
+      "url": "/datasets/d_7a882bd3d44374a7f701fc6a07620bf8/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2006",
+      "enddate": "jan 2022",
+      "title": "Cumulative number of sites under SERS since 1995",
+      "url": "/datasets/d_741b128b977a08537af3350292975127/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Average Number of Income Earners by Ethnic Group",
+      "url": "/datasets/d_47d8e6246e296c04d1ab68af5f138d51/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Approval, Construction Commencement & Completion of Commercial, Annual",
+      "url": "/datasets/d_a4c4d4f5b85f808708827e016668ed75/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Type of Family Nucleus by Flat Type",
+      "url": "/datasets/d_e31c9070e0b1363584683b81d984bfa7/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Child Dependency Ratio of HDB Resident Population by Flat Type",
+      "url": "/datasets/d_8e83c90e9c5418c4e2f1475c6e8665e2/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2018",
+      "title": "Cumulative Industrial Properties Completed Since 1960",
+      "url": "/datasets/d_676bc7fa1d69de0e74c0ceb8897dcb10/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Child Dependency Ratio of HDB Resident Population by Ethnic Group",
+      "url": "/datasets/d_dfe5545683f5c4ec6b69a06ffcabe524/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2013",
+      "title": "Old-age Dependency Ratio of HDB Resident Population by Flat Type",
+      "url": "/datasets/d_3bd6955a00e8d917b11b08f475401060/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Labour Force Participation Rate of HDB Resident Population by Flat Type",
+      "url": "/datasets/d_ec0244d088cfe409f328b65f3d74f964/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2018",
+      "enddate": "dec 2029",
+      "title": "Register of ASEAN Architects",
+      "url": "/datasets/d_8540719f90fef1eae60dc2810f6a42d8/view",
+      "organization": "BOA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "oct 2013",
+      "enddate": "sep 2018",
+      "title": "Approval, Construction Commencement & Completion of Private Residential, Quarterly",
+      "url": "/datasets/d_db10c9c5ac5f035460f6a0e4e4c2c009/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Approval, Construction Commencement & Completion of Private Residential Properties, Annual",
+      "url": "/datasets/d_38ed343cc32c3e0b6ebc43a6058e9860/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "oct 2013",
+      "enddate": "sep 2018",
+      "title": "Approval, Construction Commencement & Completion of Commercial, Quarterly",
+      "url": "/datasets/d_34fc34d1be1fd5ae0d4eb19077da450e/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Type of Family Nucleus by Ethnic Group",
+      "url": "/datasets/d_b553c9286f58ba96ef0ee1088743da52/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2014",
+      "enddate": "sep 2018",
+      "title": "Supply of Private Residential Properties in the Pipeline by Development Status, Quarterly",
+      "url": "/datasets/d_baa848bbdbf4af7b4d709f147fcf3c9b/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Supply of Commercial Properties in the Pipeline, Annual",
+      "url": "/datasets/d_c7fcb9804196b838f8501ac2f2f42d1f/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2018",
+      "enddate": "jun 2022",
+      "title": "HDB Fixed Rate Notes",
+      "url": "/datasets/d_83ff203724fe94184ae5c172f26942e0/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2008",
+      "enddate": "mar 2022",
+      "title": "Active Cases for Home Office Scheme",
+      "url": "/datasets/d_22a8f95ed7ddd81425960815efb0f088/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "aug 1987",
+      "enddate": "nov 2007",
+      "title": "Conservation Sites Sold By URA",
+      "url": "/datasets/d_1eefe4d027b4d59437321f25e00be9e7/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2014",
+      "enddate": "sep 2018",
+      "title": "Available and Vacant Executive Condominiums, Quarterly",
+      "url": "/datasets/d_e67cf50908b89a98b598b60a2f3b2a1f/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "apr 2012",
+      "enddate": "mar 2022",
+      "title": "Number of Households Billed for Upgrading",
+      "url": "/datasets/d_7b03b129f6f89d7bca1fbe50b3b5e18d/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 1991",
+      "enddate": "jan 2022",
+      "title": "Cumulative Area Reclaimed for Engineering Projects",
+      "url": "/datasets/d_55b4740017623c1d5e884e0e06793e87/view",
+      "organization": "HDB"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2018",
+      "enddate": "dec 2029",
+      "title": "Register of APEC Architects",
+      "url": "/datasets/d_65f6a92f8902a09caf2256855d3de376/view",
+      "organization": "BOA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Available and Vacant Executive Condominiums, Annually",
+      "url": "/datasets/d_fdd6247e20182008441ee74e7ef182e5/view",
+      "organization": "URA"
+    },
+    {
+      "topic": "housing",
+      "startdate": "jan 2014",
+      "enddate": "sep 2018",
+      "title": "Supply of Commercial Properties in the Pipeline, Quarterly",
+      "url": "/datasets/d_fd59b378382d9120f872ee08c7b26380/view",
+      "organization": "URA"
+    }
+  ]
+}

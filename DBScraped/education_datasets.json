@@ -1,0 +1,2409 @@
+{
+  "metadata": {
+    "topic": "education",
+    "count": 300,
+    "scraped_at": "2024-10-23T23:44:06.995808"
+  },
+  "datasets": [
+    {
+      "topic": "education",
+      "startdate": "jan 2013",
+      "enddate": "dec 2022",
+      "title": "Graduate Employment Survey - NTU, NUS, SIT, SMU, SUSS & SUTD",
+      "url": "/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Government Expenditure on Education",
+      "url": "/datasets/d_6fb676756a0038fca6cce8ddec633943/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "mar 2021",
+      "enddate": "mar 2022",
+      "title": "General information of schools",
+      "url": "/datasets/d_688b934f82c1059ed0a6993d2a829089/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2005",
+      "enddate": "jan 2022",
+      "title": "Universities - Intake, Enrolment and Graduates by Course",
+      "url": "/datasets/d_6b264092cd066c55d8e2db9e68e7ffdb/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jun 2024",
+      "enddate": "jun 2025",
+      "title": "Co-curricular activities (CCAs)",
+      "url": "/datasets/d_9aba12b5527843afb0b2e8e4ed6ac6bd/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jun 2024",
+      "enddate": "jun 2025",
+      "title": "School Distinctive Programmes",
+      "url": "/datasets/d_db1faeea02c646fa3abccfa5aba99214/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jun 2024",
+      "enddate": "jun 2025",
+      "title": "MOE Programmes",
+      "url": "/datasets/d_b0697d22a7837a4eddf72efb66a36fc2/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jun 2024",
+      "enddate": "jun 2025",
+      "title": "Subjects Offered",
+      "url": "/datasets/d_f1d144e423570c9d84dbc5102c2e664d/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1983",
+      "enddate": "jan 2022",
+      "title": "Graduates by institutions",
+      "url": "/datasets/d_06067a3d18f8a5779acfbf19c62cb656/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Primary One",
+      "url": "/datasets/d_51d12e8cb81b4adeced61f84600788b7/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1982",
+      "enddate": "jan 2022",
+      "title": "Enrolment by Institutions",
+      "url": "/datasets/d_ec8a16e11a050f11880fb6d4a0e6f93f/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2005",
+      "enddate": "jan 2022",
+      "title": "Polytechnics - Intake, Enrolment and Graduates by Course",
+      "url": "/datasets/d_78a8224856234eafbbc44d3d3edacd19/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1999",
+      "enddate": "jan 2023",
+      "title": "Number of Mixed Level Schools by Level and Type",
+      "url": "/datasets/d_ba2e1015fb724a04877e289fcaf7c415/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Digitised Books and Magazines 2024",
+      "url": "/datasets/d_837344f69211296ed8c03b7c2553a34f/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Pupils Per Teacher in Secondary Schools",
+      "url": "/datasets/d_90c36efa54bc29bc7c2e946003889f53/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2009",
+      "enddate": "jan 2022",
+      "title": "ITE - Intake, Enrolment and Graduates by Course",
+      "url": "/datasets/d_24b8751abfc87a4f054f61186c2fe1ba/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1999",
+      "enddate": "jan 2023",
+      "title": "Number of Primary Schools by Level and Type",
+      "url": "/datasets/d_217c93afee788f476404c42fe4de0249/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Full-time and CET Enrollment Data",
+      "url": "/datasets/d_b94f1a43c73f7234f5b233f12c1d6c6e/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1982",
+      "enddate": "jan 2022",
+      "title": "Intake by Institutions",
+      "url": "/datasets/d_437e089ba21c5221b0d42e3b2636b7f0/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1999",
+      "enddate": "jan 2023",
+      "title": "Number of Secondary Schools by Level and Type",
+      "url": "/datasets/d_041568b8e59c3cba17a178a68d4dcb7c/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2003",
+      "enddate": "jan 2022",
+      "title": "Students, Education Officers and Education Partners in Schools By Level",
+      "url": "/datasets/d_dc92b9d107acfa23e1df76b1a33ffb4a/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2014",
+      "enddate": "jan 2024",
+      "title": "Enrolment - MOE Kindergartens",
+      "url": "/datasets/d_4eb4afea3120e24369bcd20669a1a1cd/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "Percentage of PSLE Students who Scored AL 1-6 in Standard English Language",
+      "url": "/datasets/d_17527c14ac471b7e9a2feea9581fcdeb/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1996",
+      "enddate": "jan 2022",
+      "title": "Vice-Principals in Schools - Age",
+      "url": "/datasets/d_c188482862835bce174809fbed82bbc9/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1986",
+      "enddate": "jan 2022",
+      "title": "Government Recurrent Expenditure on Education Per Student",
+      "url": "/datasets/d_d1c04ad1a201a76b0ab7753a498b3bfb/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1999",
+      "enddate": "jan 2023",
+      "title": "Number of Pre-University schools by level and type",
+      "url": "/datasets/d_190a5d7d5a612705bf13bb4cc37fc34e/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "Percentage of PSLE Students who Scored AL 1-6 in Standard Mathematics",
+      "url": "/datasets/d_960c70a482ce481802ab8fb0a0eca8b2/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Online Articles 2024",
+      "url": "/datasets/d_2c0eb3e7e92a449ce0de635d3aa43d83/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1982",
+      "enddate": "jan 2023",
+      "title": "Number of Classes and Class Size by Level",
+      "url": "/datasets/d_bb5f828263a942a9af869eccf9b0068d/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of O-Level Cohort that Progressed to Post-Secondary Education",
+      "url": "/datasets/d_69629447c1a0fd21d70b4c45f027b7e2/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Pre-University by Level and Course",
+      "url": "/datasets/d_a27483941350c79947ebac7803df48d7/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Digitised Maps 2024",
+      "url": "/datasets/d_5d624e3d2f8c0ba248ad14fac6181642/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2022",
+      "enddate": "apr 2023",
+      "title": "Academic Year 2022 Temasek Polytechnic Full-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_5ad7911d94482cb83a2b7eec2d342997/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2013",
+      "enddate": "dec 2022",
+      "title": "Nanyang Polytechnic Full-time Student Enrolment 2013 - 2022",
+      "url": "/datasets/d_3dc5d66f052a46887107c52aaaba7b33/view",
+      "organization": "NYP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2020",
+      "title": "Percentage of PSLE students who scored A*- C in Standard Mathematics",
+      "url": "/datasets/d_b860a6f506c921b8fd6cb3667f419db2/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1985",
+      "enddate": "jan 2022",
+      "title": "Government Development Expenditure on Education",
+      "url": "/datasets/d_f1374917309c076b92ea8a18612c0612/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Government Recurrent Expenditure on Education By Type of Educational Institutions",
+      "url": "/datasets/d_78e9f659dba5920532eb0e3c4d08b751/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Government Recurrent Expenditure on Education - Total",
+      "url": "/datasets/d_f2068e0797f050f24e573fd6decbd7b6/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Pupils Per Teacher in Primary Schools",
+      "url": "/datasets/d_bc5a1a10afedf7d25128dae1342c9556/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1990",
+      "enddate": "dec 2020",
+      "title": "Combined And Gross Enrolment Ratio For Primary, Secondary & Tertiary Education",
+      "url": "/datasets/d_1186df307fe23b1b655ce7774ef44ff1/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "aug 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Archived Websites 2024",
+      "url": "/datasets/d_ec5e08ce1e8bfe7a2f016ecc250d085a/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2020",
+      "title": "Percentage of PSLE students who scored A*- C in Standard Science",
+      "url": "/datasets/d_af6f5cd97fd8f5497258f059cb044185/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2023",
+      "title": "Students In Schools - Pre-University",
+      "url": "/datasets/d_ee8c56dc61e074a695f6dab0da546dfe/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Digitised Music Albums, Lyrics and Music Scores 2024",
+      "url": "/datasets/d_e2dbd202d93678942e6af31342cd2b91/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2003",
+      "enddate": "jan 2022",
+      "title": "Percentage of P1 Cohort  Admitted to Post-Secondary & Tertiary Education by Type of Course",
+      "url": "/datasets/d_77af1549353613193ae58aebe56a8e04/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jun 2024",
+      "enddate": "dec 2024",
+      "title": "SICS Dataset 1 - Canteen Advertisements",
+      "url": "/datasets/d_84f2c4878725990c6fdefc9845ed0591/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Secondary By Level and Course",
+      "url": "/datasets/d_c60f4952deb240f91b4c966544271197/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2000",
+      "enddate": "jan 2022",
+      "title": "Numbers of Private Schools",
+      "url": "/datasets/d_9a8697c5770bca5ffc1dffa320c2e24a/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2003",
+      "enddate": "jan 2022",
+      "title": "Summary Statistics on Education Officers",
+      "url": "/datasets/d_8aee2fbb0a3be5f3d49d723c80666766/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1984",
+      "enddate": "jan 2023",
+      "title": "Pre-U Enrolment By Age",
+      "url": "/datasets/d_99265ee234ba45df42c2746695fa13be/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "aug 2025",
+      "title": "Newspapers-Daily Advertiser-1890 to 1894",
+      "url": "/datasets/d_259427b26f58f92762229a5da33b95f4/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "mar 2024",
+      "enddate": "mar 2025",
+      "title": "National Library Singapore Digitised Images",
+      "url": "/datasets/d_d269162117ff494b2832723e18b10e88/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2000",
+      "enddate": "jan 2022",
+      "title": "Enrolment and  Number of Teaching Staff",
+      "url": "/datasets/d_af80eed3517888b8e4140400d4bb01d1/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2016",
+      "enddate": "dec 2020",
+      "title": "Total Net Enrolment Rate for Primary And Secondary Education",
+      "url": "/datasets/d_687d662410ec92ccc11835f057cfc9f7/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1995",
+      "enddate": "jan 2022",
+      "title": "Percentage of P1 Cohort that Progressed to Post Secondary Education",
+      "url": "/datasets/d_d9c3dc47a770f8eb2f31432681558f36/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1914 to 1918",
+      "url": "/datasets/d_99cf3841d550550458ba7b818ac4b0f9/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Bintang Pranakan-1930 to 1931",
+      "url": "/datasets/d_df2600491078803976ef85f455172b26/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1996",
+      "enddate": "jan 2022",
+      "title": "Teachers in schools - Age",
+      "url": "/datasets/d_3903d6f48227cf4a87a346b7f4958aa9/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Primary Six",
+      "url": "/datasets/d_cab629f994e10997a7a352aad4443146/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Primary Three",
+      "url": "/datasets/d_a890070491cc2a1be705fe8f98b67f1e/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "Percentage of PSLE Students who Scored AL 1-6 in Standard Science",
+      "url": "/datasets/d_078f6d42ad39d1a80c505d0b3fc7c90f/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2020",
+      "title": "Percentage of PSLE students who scored A*- C in Standard Mother Tongue Language",
+      "url": "/datasets/d_4e0be8a8b4cb7fc3b43f2c82d9799fc2/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Primary Two",
+      "url": "/datasets/d_2573d8f05c0b3360d9322405e13abcfa/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "Percentage of PSLE Students who Scored AL 1-6 in Standard Mother Tongue Language",
+      "url": "/datasets/d_0787520bb7a9bed16d5a7b8e964805b1/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2018",
+      "enddate": "apr 2019",
+      "title": "Academic Year 2018 Temasek Polytechnic Full-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_f332b61a9c38010d154b38f47ee37645/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1990",
+      "enddate": "dec 2020",
+      "title": "Gender Parity Index For Primary, Secondary & Tertiary Students",
+      "url": "/datasets/d_7139e8baa40e3ef0802204968c07313e/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Comrade-1946",
+      "url": "/datasets/d_957300730389bb7144054a06e340696f/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2013",
+      "enddate": "dec 2022",
+      "title": "Nanyang Polytechnic Full-time Student Intake 2013 - 2022",
+      "url": "/datasets/d_e67121030a86654f2a77ee7c5fd5a985/view",
+      "organization": "NYP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2020",
+      "title": "Percentage of PSLE students who scored A*- C in Standard English Language",
+      "url": "/datasets/d_cd2cd1d40af4b1f8a533a575d87a4367/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2000",
+      "enddate": "dec 2020",
+      "title": "School Life Expectancy by Gender Annual",
+      "url": "/datasets/d_f08f294550aeb6af73c9222405c8ec3b/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2022",
+      "enddate": "apr 2023",
+      "title": "Academic Year 2022 Temasek Polytechnic Full-Time Courses",
+      "url": "/datasets/d_b438fc00ee679a15980282fe1c7ca45d/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Digitised Documents and Manuscripts 2024",
+      "url": "/datasets/d_4982d51eb70e64dbd0f4a3f524015480/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2014",
+      "enddate": "jan 2023",
+      "title": "Nanyang Polytechnic GCE 'O' Level Aggregate Cut-Off-Points by Course, 2014 - 2023",
+      "url": "/datasets/d_eb7bb85a49e021e63f9cb7b54497a400/view",
+      "organization": "NYP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2022",
+      "title": "Percentage of GCE O Level Students Who Passed Mathematics",
+      "url": "/datasets/d_b6e98062ee2c0326f77ede733c16ed07/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Primary Four",
+      "url": "/datasets/d_05ff59e9cf67aec6a740eedd3c392856/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1987",
+      "enddate": "jan 2022",
+      "title": "Teachers In Schools - Length of Service",
+      "url": "/datasets/d_9532ab3d45acbc29f1049932e4b27ad1/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Students In Schools - Primary Schools",
+      "url": "/datasets/d_82ad188aa90781534e972334c201fd7d/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2022",
+      "enddate": "apr 2023",
+      "title": "Academic Year 2022 Temasek Polytechnic Part-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_f739946838c6f5cbe23dc0e3e51e6444/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2019",
+      "enddate": "may 2023",
+      "title": "NLB Name Authorities Attributes",
+      "url": "/datasets/d_a6d93a061d4148fe55106a28ddd6193c/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1919 to 1923",
+      "url": "/datasets/d_913f85ef12abf463af174d20f977188a/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1950 to 1951",
+      "url": "/datasets/d_786b21b8e9b2e5a9bfbbda09188184a0/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1924 to 1928",
+      "url": "/datasets/d_4061fb8858d333344a1cf1feb046ec29/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Bintang Timor-1894",
+      "url": "/datasets/d_6dcc38d29a428b3ca5f9e0563d6298cf/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jun 2023",
+      "enddate": "dec 2023",
+      "title": "SICS Dataset 3 -School Bus Operator v0",
+      "url": "/datasets/d_a9e4d1b0f2897b4480723bf7f074c5e5/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2001",
+      "enddate": "jan 2022",
+      "title": "Percentage of P1 Cohort Eligible for Secondary School",
+      "url": "/datasets/d_2e729235d0717030dfb4c3baf8c68e4c/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2023",
+      "title": "Enrolment - Primary Five",
+      "url": "/datasets/d_30b3c448f1ba4927d56f458d62a43436/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2011",
+      "enddate": "jan 2022",
+      "title": "LASALLE and NAFA - Intake, Enrolment and Graduates by Degree",
+      "url": "/datasets/d_00252dbf770d7bfd9df1e0a416a54fd7/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1984",
+      "enddate": "jan 2023",
+      "title": "Secondary Enrolment By Age",
+      "url": "/datasets/d_20cd92e4e74c8b9cadd618b6bb414eac/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2023",
+      "title": "Students In Schools - Secondary Schools",
+      "url": "/datasets/d_485ba9d40c6270a9ac1baf20e80d3e98/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2022",
+      "enddate": "nov 2023",
+      "title": "2023 Financial Assistance Schemes",
+      "url": "/datasets/d_829d56358379529c982a5a6956b7d8f1/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2022",
+      "enddate": "nov 2023",
+      "title": "2023 Ngee Ann Polytechnic Scholarships and Awards",
+      "url": "/datasets/d_d8f0c6d636374b50c5565c5c2d1bd1ea/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2020",
+      "enddate": "apr 2021",
+      "title": "Academic Year 2020 Temasek Polytechnic Full-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_d6650a943c77718d872da4664acdd2f5/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Sunday Tribune (Singapore)-1945 to 1950",
+      "url": "/datasets/d_ffa948e85a23f815cf4355e47b387232/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1939 to 1942",
+      "url": "/datasets/d_e4809434f8db0007bbf4490e139d6685/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Digitised Sound and Video Recordings 2024",
+      "url": "/datasets/d_7cb942a9fdbcb374fd8eac241081dbe4/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Eastern Daily Mail and Straits Morning Advertiser-1905 to 1907",
+      "url": "/datasets/d_c96c2331c9b19d68ee2e66171805984c/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1934 to 1938",
+      "url": "/datasets/d_aa56cfd7dd8efa83312292fdcb2b2aec/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Independent and Penang Chronicle-1894 to 1896",
+      "url": "/datasets/d_722c16f37860ad31d697d609c7f81be1/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Shonan Times (Syonan Shimbun)-1942 to 1945",
+      "url": "/datasets/d_bc1c53268697009babf3918cd37771b7/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1929 to 1933",
+      "url": "/datasets/d_b721192180f5c1fe669414650a6f7d75/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malaya Tribune-1945 to 1949",
+      "url": "/datasets/d_35edcd8fbe08f517e1c23470f996dadc/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Sunday Tribune (Singapore)-1938 to 1941",
+      "url": "/datasets/d_8697c0e4f0b625531be10cb8db1032bb/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Weekly Sun-1910 to 1913",
+      "url": "/datasets/d_459adb15c1cabfd2e0212a923989b892/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "dec 1994",
+      "title": "Enrolment - Primary Eight",
+      "url": "/datasets/d_29e1c56fc883e5b59713e770cc2a774b/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2000",
+      "enddate": "dec 2020",
+      "title": "School Life Expectancy, Annual",
+      "url": "/datasets/d_5c13da0992fc9e234ebd9577ec761d44/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1984",
+      "enddate": "jan 2023",
+      "title": "Primary Enrolment by Age",
+      "url": "/datasets/d_7771c5bbc6cd7e6f6a8460c4739c313c/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Teachers In Schools - Secondary Schools",
+      "url": "/datasets/d_8b21b31d3f0a4ed58cb805336d52d932/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2023",
+      "enddate": "jan 2023",
+      "title": "2023 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_2e648565830ce4d6209b7abb53cbb3ab/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2021",
+      "enddate": "apr 2022",
+      "title": "Academic Year 2021 Temasek Polytechnic Full-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_1e047f6a01efe8d4afb1ea2f98b136cb/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2021",
+      "enddate": "apr 2022",
+      "title": "Academic Year 2021 Temasek Polytechnic Part-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_ad0826c61f593b2c6ad047879c0861d4/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2018",
+      "enddate": "apr 2019",
+      "title": "Academic Year 2018 Temasek Polytechnic Part-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_9445f8ecc5153aa9a10cba2fef778953/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2007",
+      "enddate": "jan 2021",
+      "title": "Percentage of N-Level Cohort that Progressed to Post-Secondary Education",
+      "url": "/datasets/d_c4163aedc16f317ee21cce9c5ea5561d/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2019",
+      "enddate": "may 2023",
+      "title": "NLB Name Authorities Relationships",
+      "url": "/datasets/d_68955b7991bedbe6d888ad5182974e4f/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2010",
+      "enddate": "nov 2023",
+      "title": "Number of Graduates from Full-Time and Traineeship Programmes at ITE",
+      "url": "/datasets/d_4c00177b84dc5fd467146c5c1e58e469/view",
+      "organization": "ITE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Kabar Slalu-1924",
+      "url": "/datasets/d_d5f109cb55452e28d6946be9efab96de/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Observer (Singapore)-1874 to 1876",
+      "url": "/datasets/d_cce6ead0b8ca810f9ad625d4a3a114d8/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Syonan Shimbun Fortnightly-1945",
+      "url": "/datasets/d_6fe660ee98460d1be880580f99e86da1/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Indo-Chinese Patriot-1900",
+      "url": "/datasets/d_c0df31b2deb4f30411c6cee433ec2fbb/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Sunday Standard-1950 to 1953",
+      "url": "/datasets/d_b1cf00e204e35e07d4ec45abb91b8077/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Indian Daily Mail-1949 to 1953",
+      "url": "/datasets/d_8da33537d8112093ea230332db01896b/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Kabar Uchapan Baru-1926 to 1931",
+      "url": "/datasets/d_674f5a706704032cef2c83dba00bec55/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Daily Advertiser-1900",
+      "url": "/datasets/d_8d3647bf2946589e07b4cde4143bddad/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Indian Daily Mail-1946 to 1947",
+      "url": "/datasets/d_434d294555cbb371da63e9770d5b4ca1/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Morning Tribune-1936 to 1941",
+      "url": "/datasets/d_8b7214b5e37966ded68f92d698e113e7/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Maritime Journal and General News-1895 to 1896",
+      "url": "/datasets/d_8229ae99eb503b45b075067b87184cfe/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Planned Intake and Cut-off Points",
+      "url": "/datasets/d_e0d9c03e6f4b530fac0bcd459e91cc8f/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2023",
+      "enddate": "dec 2024",
+      "title": "SICS Dataset 2 - Bus Advertisements",
+      "url": "/datasets/d_ba4ad056684df37f0a156bb86731f565/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "dec 1993",
+      "title": "Enrolment - Primary Seven",
+      "url": "/datasets/d_f3a5ca618e52d733dc6c9a23b33ee478/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1987",
+      "enddate": "jan 2022",
+      "title": "Percentage of Students With at Least 5 O-Level Passes",
+      "url": "/datasets/d_c06331d556cae0e7287547dc1ab239ef/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2020",
+      "enddate": "apr 2021",
+      "title": "Academic Year 2020 Temasek Polytechnic Part-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_56cdbed66b516c539b18f94f0b00a455/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Financial Assistance Schemes",
+      "url": "/datasets/d_dbf365a8ab12d47f97113dd270bf10f0/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2019",
+      "enddate": "apr 2020",
+      "title": "Academic Year 2019 Temasek Polytechnic Full-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_1f752dada1e38225496745c452e817df/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2019",
+      "enddate": "apr 2020",
+      "title": "Academic Year 2019 Temasek Polytechnic Part-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_9bf916a2600f251dd78d6ecca472b393/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Echo-1915 to 1918",
+      "url": "/datasets/d_bc269bdf18f07f1c980e995e151fe3e1/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malayan Saturday Post-1924 to 1928",
+      "url": "/datasets/d_a96e4adfcdcd7a168a95a59fca64da60/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Echo-1910 to 1914",
+      "url": "/datasets/d_8ff0050ff9ab94b500b278cf97acd2f5/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Chinese Herald-1894",
+      "url": "/datasets/d_b063f5a2559352d7ee3ea4cda0a1ecd3/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Singapore Chronicle and Commercial Register-1832 to 1837",
+      "url": "/datasets/d_537ab93bef232df3b883e0477858205a/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malayan Saturday Post-1929 to 1933",
+      "url": "/datasets/d_fdea4eac6191291d3620a7ff866d2780/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Malacca Weekly Chronicle and Mercantile Advertiser-1888 to 1889",
+      "url": "/datasets/d_6ef475f33c2d51eda249b8266a4acca3/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Singapore Chronicle and Commercial Register-1827 to 1831",
+      "url": "/datasets/d_0d77d715e4db728f806bd01f7ba0371a/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Morning Tribune-1946 to 1949",
+      "url": "/datasets/d_b1233478b7e05f5fb6211edc9ab449e7/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Independent and Penang Chronicle-1889 to 1892",
+      "url": "/datasets/d_4c3c3d7e5b29722187d69fe226a0acb7/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Singapore Standard-1950 to 1953",
+      "url": "/datasets/d_d35d2d0a53b43d45fa58286dc0e23fd2/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Singapore Weekly Herald-1888 to 1889",
+      "url": "/datasets/d_b172ca710adce670bc058f3c11d518c7/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Advocate-1889",
+      "url": "/datasets/d_5f41191b7b5f7f7aa56a91e382463797/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Telegraph and Daily Advertiser-1899",
+      "url": "/datasets/d_5334f6305b1bc4abb9a62083ff5357b6/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Mail-1894 to 1895",
+      "url": "/datasets/d_50251bdaf3c3e076cccb960a605726c5/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Penang Patriot-1898 to 1900",
+      "url": "/datasets/d_2d3523431e6788da59b87ad624d571b3/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Full-time Diploma Courses",
+      "url": "/datasets/d_770f3f4acf3b177d0df383e5972e3b5e/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Short Courses",
+      "url": "/datasets/d_f4744cb9d9aaffd952db159bdb3af75f/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2018 Full-time Diploma Courses",
+      "url": "/datasets/d_351bb7940ca11e8fa28a6dfc56e2f2c9/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Full-time Diploma Courses",
+      "url": "/datasets/d_45b6c730a1ce9bf9d51d357309b3a382/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2016",
+      "enddate": "dec 2022",
+      "title": "Nanyang Polytechnic Planned Intake, Annual, 2016 to 2022",
+      "url": "/datasets/d_45518670214498e31330c6f79e3dbbeb/view",
+      "organization": "NYP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Planned Intake and Cut-Off Points",
+      "url": "/datasets/d_41e3fa6cec02c46a2ffa2fc58073fb36/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Full-time and CET Enrollment Data",
+      "url": "/datasets/d_4d3c9b299f132094148ecaa5aa440377/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Full-time & CET Enrollment Data",
+      "url": "/datasets/d_eac16ab94667dcfe4b1273b3f822abdd/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 0001",
+      "enddate": "jan 2022",
+      "title": "LASALLE and NAFA Intake, Enrolment and Graduates by Diploma",
+      "url": "/datasets/d_d6eae36fd5b29b43ab4e005b4102972b/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2016",
+      "enddate": "apr 2018",
+      "title": "Academic Year 2016 and 2017 Temasek Polytechnic Full-Time Enrolment Figures Breakdown",
+      "url": "/datasets/d_03dae61b67a6cb42cfc4fd1e9ab443b3/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2015",
+      "enddate": "apr 2018",
+      "title": "Temasek Polytechnic Part-Time Enrolment Figures Breakdown, Annual (2015-2017)",
+      "url": "/datasets/d_0d78329a03f290956a7dc53fc47daebb/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2019",
+      "enddate": "apr 2020",
+      "title": "Academic Year 2019 Temasek Polytechnic Full-Time Courses",
+      "url": "/datasets/d_a7a4fd493cfa5e5027a14b7fa01800e7/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "SP's WSQ Courses",
+      "url": "/datasets/d_eaea3da634671750a9e27585e8c5d6b6/view",
+      "organization": "SP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "SP's Part-time Courses",
+      "url": "/datasets/d_386b6220276560330e7bd90b031d5130/view",
+      "organization": "SP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Eurasian Advocate-1888",
+      "url": "/datasets/d_1a0e13ffcdd67a3954f12cec0b63a1d1/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Mid-day Herald-1895 to 1898",
+      "url": "/datasets/d_00515e7c3a51c289ff488ff3f7528d1e/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Sunday Tribune (Singapore)-1933 to 1937",
+      "url": "/datasets/d_4145f481381104e8acac1ca8f99fdbbc/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Observer (Singapore)-1897",
+      "url": "/datasets/d_210e7366a96ea6ef6ff109f8819dff13/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Morning Tribune-1927",
+      "url": "/datasets/d_0e03b5f9acd1c4ef447f4c6cd5bfd32a/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2016",
+      "enddate": "dec 2023",
+      "title": "Nanyang Polytechnic Full-time Diploma Courses - 2016 to 2023",
+      "url": "/datasets/d_93384114c34e72d1cb7908b95618267a/view",
+      "organization": "NYP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Republic Polytechnic Part-Time Courses 2019",
+      "url": "/datasets/d_f9ad85e371de85947cdd4d8f9adc5dd3/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "SP's Short Courses",
+      "url": "/datasets/d_b4441d68ce973f949df9371bda50e0bf/view",
+      "organization": "SP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Short Courses",
+      "url": "/datasets/d_c48cd4a5079d70ae9e18b40450dd2045/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Ngee Ann Polytechnic Full-time Diploma Course Fees, Semester",
+      "url": "/datasets/d_bab55a1cdaba1b86a46323cf567d6be5/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1980",
+      "enddate": "jan 2022",
+      "title": "Teachers In Schools - Primary Schools",
+      "url": "/datasets/d_b09a1596075c5d694af7c23bbef87f53/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2009",
+      "enddate": "nov 2023",
+      "title": "Training Places of CET Skills And Continuing Academic Education Programmes at ITE",
+      "url": "/datasets/d_d1fbb24161f78e72bed494bd2ba9d091/view",
+      "organization": "ITE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Financial Assistance Schemes",
+      "url": "/datasets/d_5711f5307bc216e7588b768cd9ad6dae/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2018",
+      "enddate": "apr 2019",
+      "title": "Academic Year 2018 Temasek Polytechnic Part-Time Courses",
+      "url": "/datasets/d_24118305dac634328e0e07ec2d0f3a84/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2022",
+      "title": "Percentage of GCE O Level Students Who Passed English Language",
+      "url": "/datasets/d_ed654e88431da710ad04deced481646c/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Republic Polytechnic Full-time Diploma Courses 2019",
+      "url": "/datasets/d_410aa9ff5ce5617a0cbebe9092c4a2e0/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "mar 2007",
+      "enddate": "sep 2015",
+      "title": "Grant Calls and Amount Awarded",
+      "url": "/datasets/d_c53ee81929822a5aad1a41f8415ceb0c/view",
+      "organization": "NRF"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Ngee Ann Polytechnic Scholarships and Awards",
+      "url": "/datasets/d_8316bd482accfe6f1987f751beda8a91/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2023",
+      "enddate": "dec 2023",
+      "title": "2023 Full-time Diploma Courses",
+      "url": "/datasets/d_120ad7e0334d2c2a37ad62ae262f75fa/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Full-time Diploma Courses",
+      "url": "/datasets/d_396032b4c704921d1047efebd9503207/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Full-time Diploma Courses",
+      "url": "/datasets/d_90f6d846151a18612e4438495ebc5cb8/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Short Courses",
+      "url": "/datasets/d_ebca2906b6a9129cc0c18f6a05182082/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Full-time and CET Enrollment Data",
+      "url": "/datasets/d_af8cc6f5471b4775c0a34b9e717fd10a/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "2018 Full-time and CET Enrollment Data",
+      "url": "/datasets/d_4d59041f4e9758c354b97e073f4fa144/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Full-time and CET Enrollment Data",
+      "url": "/datasets/d_2dc1ed780ed4b6182103059f27c6ca6d/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Diploma Plus Programmes",
+      "url": "/datasets/d_d807c5913e99203c5ad92dc233a8a43a/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Planned Intake and Cut-Off Points",
+      "url": "/datasets/d_96768510413e84edf603bd4777766543/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "National Library Singapore Digitised Ephemera 2024",
+      "url": "/datasets/d_1a94953c006ff5c29929cce48db535de/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Diploma Plus Programmes",
+      "url": "/datasets/d_a6d0d9e21a3f61b12a6334c46fb5ad0a/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2012",
+      "enddate": "nov 2024",
+      "title": "Fees for ITE Full-Time Higher Nitec and Nitec Courses by Year and Participant Category",
+      "url": "/datasets/d_7d1568686442d85d69dc476e4926d5e1/view",
+      "organization": "ITE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1996",
+      "enddate": "jan 2022",
+      "title": "Principals in Schools - Age",
+      "url": "/datasets/d_210a22c0afa1bb429c430de8bbcb5b9f/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2003",
+      "enddate": "jan 2022",
+      "title": "Percentage of P1 Cohort That Did Not Complete Secondary Education",
+      "url": "/datasets/d_eb818056f2f6b839256edfd2abb86d7c/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2013",
+      "enddate": "nov 2024",
+      "title": "ITE Course Catalog",
+      "url": "/datasets/d_16d9275596a083bdcd1b3a3ce97f6ffa/view",
+      "organization": "ITE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Financial Assistance Schemes",
+      "url": "/datasets/d_f98b0d0bf644c30ce95129f95a947b9c/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2020",
+      "enddate": "apr 2021",
+      "title": "Academic Year 2020 Temasek Polytechnic Full-Time Courses",
+      "url": "/datasets/d_259c61bd4366fe20b5dc5ca7fcacaefe/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2021",
+      "enddate": "apr 2022",
+      "title": "Academic Year 2021 Temasek Polytechnic Full-Time Courses",
+      "url": "/datasets/d_23ea379618b7f873c720403012f6f941/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Temasek Polytechnic Workforce Skills Qualification (WSQ) Courses",
+      "url": "/datasets/d_cfedd1d3f2b95dc572d9af72427c87f5/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2022",
+      "enddate": "apr 2023",
+      "title": "Academic Year 2022 Temasek Polytechnic Part-Time Courses",
+      "url": "/datasets/d_aed6e18446c1470909d6ef0f8c7827a7/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Part-time Diploma Course",
+      "url": "/datasets/d_ed954811feca5b413c191b3a0ee557b6/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Part-time Diploma Course",
+      "url": "/datasets/d_b45e72650d024dbeff3c8b5dca24a51d/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "mar 2007",
+      "enddate": "sep 2015",
+      "title": "Grant Calls and Awarded Grant Projects, Recipient and Organisation",
+      "url": "/datasets/d_515bc737ccc0e5c7af90bb933e0e95d5/view",
+      "organization": "NRF"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of Normal (Technical) Level Students Who Passed English Language",
+      "url": "/datasets/d_91e642c7daff698ef6762e9088669603/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of Normal (Academic) Level Students Who Passed Mother Tongue Language",
+      "url": "/datasets/d_09188d40fb70ce4fb9e68a80366e7e82/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Republic Polytechnic Post-Diploma Courses 2019",
+      "url": "/datasets/d_bd01bb6b241f2bd0173aea1fd31ac615/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Skills-Based Modular Courses",
+      "url": "/datasets/d_bdcac967ad4a603b182fae6505cfc06b/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Planned Intake and Cut-Off Points",
+      "url": "/datasets/d_f3b95df32c930fee1c0f333a2c7ae92e/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Planned Intake and Cut-Off Points",
+      "url": "/datasets/d_549d13ca5948a77b2648b48b37aab83d/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Diploma Plus Programmes",
+      "url": "/datasets/d_b978536e2590e87484b12fe5767d723d/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1999",
+      "enddate": "jan 2022",
+      "title": "Percentage of Students With at Least 3 'A'/'H2' Passes and Pass in GP or KI",
+      "url": "/datasets/d_326c2c38bf2db18761039c3898880a39/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1996",
+      "enddate": "jan 2022",
+      "title": "Principals in Schools - Length of Service",
+      "url": "/datasets/d_c1295bd1935f06ac0646a10efbf07dbf/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2010",
+      "enddate": "nov 2023",
+      "title": "Intake Count of Full-Time and Traineeship Programmes at ITE",
+      "url": "/datasets/d_2def6f1e961d452f8073650bba251273/view",
+      "organization": "ITE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2001",
+      "enddate": "jan 2022",
+      "title": "Percentage of P1 Cohort Who had at least 5 N-Level passes or 3 O-Level passes",
+      "url": "/datasets/d_c62b00bd6c4f73622ace5b5d7e26cfff/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2018",
+      "enddate": "apr 2019",
+      "title": "Academic Year 2018 Temasek Polytechnic Full-Time Courses",
+      "url": "/datasets/d_797413a083580b214af566aba1537ec6/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2021",
+      "enddate": "apr 2022",
+      "title": "Academic Year 2021 Temasek Polytechnic Part-Time Courses",
+      "url": "/datasets/d_9cb313185a2b7d702023f7330c7009d0/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2016",
+      "enddate": "apr 2018",
+      "title": "Temasek Polytechnic Part-Time Courses, Annual (2016-2017)",
+      "url": "/datasets/d_4a92d863b4eb01a46d75f506f175a63f/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2016",
+      "enddate": "apr 2018",
+      "title": "Academic Year 2016 and 2017 Temasek Polytechnic Full-Time Courses",
+      "url": "/datasets/d_f335e88b7ca469ee48c2289f5d271fb0/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1987",
+      "enddate": "jan 2022",
+      "title": "Percentage of Students With at Least 3 O Level Passes",
+      "url": "/datasets/d_d3337f869a7134ee6b6c48907b44a270/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "dec 2009",
+      "enddate": "nov 2023",
+      "title": "Completion Count of CET Skills And Continuing Academic Education Programmes at ITE",
+      "url": "/datasets/d_12f286e0ae3a84389b545888de250e4b/view",
+      "organization": "ITE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of Normal (Technical) Level Cohort that Progressed to ITE",
+      "url": "/datasets/d_ab25523f766f4af41928224d72102382/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Prince of Wales Island Gazette-1833",
+      "url": "/datasets/d_939c55df2b0e9451c31f25c17836f8c3/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_0ca55feb103b40aeae6d7af530a92fe2/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Science Enrichment Programmes",
+      "url": "/datasets/d_78e0161a6056c0c3a22ea446a44c99e9/view",
+      "organization": "SCB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Ngee Ann Polytechnic Scholarships and Awards",
+      "url": "/datasets/d_e5326b327c5c5b74cafa1d723ecd27ee/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_df7d9d8dc362b32d5e1820db9837b800/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Republic Polytechnic Short Courses 2019",
+      "url": "/datasets/d_c44c5c603992308367395bc2145b4e75/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of Normal Academic Level Students Who Passed Mathematics",
+      "url": "/datasets/d_a7b5088b384d569f34dbd89c63f03122/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2019",
+      "title": "RP Total Enrolment 2019",
+      "url": "/datasets/d_b335291daab4d2e838d2fc5d3ee2ff3a/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of Normal (Technical) Level Students Who Passed Mathematics",
+      "url": "/datasets/d_983fe04c9a3aaa8dfc3e795c1f0a0271/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Ngee Ann Polytechnic Full-time Diploma Course Fees, Semester",
+      "url": "/datasets/d_c7f9a7ac65ad5a4a96ab9902c10c848d/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Ngee Ann Polytechnic Full-time Diploma Course Fees, Semester",
+      "url": "/datasets/d_ee025f3d886cd9e4d1db3ed9ef219cd6/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Post Diploma Course",
+      "url": "/datasets/d_9e4153e796680cf2d79b4ea7a9098c6b/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "2018 Post Diploma Course",
+      "url": "/datasets/d_feabe939920fc849955055faf7a1e3f9/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Diploma Plus Programmes",
+      "url": "/datasets/d_337af6ced205d1227fc353730239e259/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Diploma Plus Programmes",
+      "url": "/datasets/d_9258f40d2ef60574b8316777e422611e/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2022",
+      "title": "Percentage of A-Level Students Who Passed General Paper or Knowledge and Inquiry",
+      "url": "/datasets/d_c1e796ba67550a8b3a5cf08f0b7778a1/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1981",
+      "enddate": "jan 2022",
+      "title": "Teachers In Schools - Pre-University",
+      "url": "/datasets/d_fd7ff53aad657b915311a1d4d6fef7ed/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "2022 Temasek Polytechnic Workforce Skills Qualification (WSQ) Courses",
+      "url": "/datasets/d_115afdff06c9e0143ae28dc33886ee73/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "apr 2020",
+      "enddate": "apr 2021",
+      "title": "Academic Year 2020 Temasek Polytechnic Part-Time Courses",
+      "url": "/datasets/d_98811db3c4a9f4f4b872c0448d9996e6/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Temasek Polytechnic Workforce Skills Qualification (WSQ) Courses",
+      "url": "/datasets/d_0ea22ea5a04e2f57ff4c8ec76ec874e2/view",
+      "organization": "TP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Financial Assistance Schemes",
+      "url": "/datasets/d_57e85ac72c257c08ebbe8c59b494c114/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Part-time Diploma Course",
+      "url": "/datasets/d_5abf6e62b4d6582e2d66ab64a6ea0f35/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of N[A]-Level Students Who Passed English Language",
+      "url": "/datasets/d_18b84ce97cc3b50468056400ecbbad90/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "2018 Part-time Diploma Course",
+      "url": "/datasets/d_aaed249b6200edb9fe2cbe3223775053/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Part-time Diploma Courses",
+      "url": "/datasets/d_753cb05eb0e09deefa3154dc10449a31/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Part-time Diploma Course",
+      "url": "/datasets/d_1f262317e88e514602a01d2fb1cbb573/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1931 to 1935",
+      "url": "/datasets/d_c176529dae89e86a696620cd6dfc446f/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1856",
+      "url": "/datasets/d_f81f3ae8743b587a0eda4b44c2ed6f4d/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Echo (Mail Edition)-1904 to 1907",
+      "url": "/datasets/d_79532f897cd4489d1f2f98b9fda25b4e/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1926 to 1930",
+      "url": "/datasets/d_5dcdd526f0628d4761a5e60b8ba1de79/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1916 to 1920",
+      "url": "/datasets/d_4e02194b4b37fb47acdd56bffc30d01c/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1911 to 1915",
+      "url": "/datasets/d_edf8dcabefecac5d2df4a1f740ac2c3e/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Malacca Weekly-1888 to 1889",
+      "url": "/datasets/d_e42d38f5b5012fa208783f9c8729f47b/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Republic Polytechnic Diploma Plus Programme 2019",
+      "url": "/datasets/d_086309176d5c42e7da930c150de2982f/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Penang Times-1882",
+      "url": "/datasets/d_86739674f299989f01899688877282ba/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Echo (Mail Edition)-1908 to 1911",
+      "url": "/datasets/d_408fba8dd27c95c31bb5d462171c74f8/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1899 to 1905",
+      "url": "/datasets/d_2a81c69204884bcb90870217cf8baad6/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1921 to 1925",
+      "url": "/datasets/d_ccd91859f4d954aaeb79930bb177caff/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Malacca Guardian-1928 to 1929",
+      "url": "/datasets/d_c4af00c7483ec17fcd440ac8a0c52530/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Echo-1905 to 1909",
+      "url": "/datasets/d_80d80e9fe2d1e0f1617c83a3937f0f5d/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1879",
+      "url": "/datasets/d_af5ea97030fed0db57e14efbe2bd93fd/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Echo (Mail Edition)-1917 to 1920",
+      "url": "/datasets/d_a4cc0a6658e4ae8ee28549a834a5f9ee/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1906 to 1910",
+      "url": "/datasets/d_8ce983e6b90d94010dbcd10a24ded26e/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1936 to 1941",
+      "url": "/datasets/d_80a623950e82ff14b5bf26518cbdd310/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Echo (Mail Edition)-1922 to 1926",
+      "url": "/datasets/d_a73c21356e8c8168d20832bc50f72a90/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Echo (Mail Edition)-1913 to 1916",
+      "url": "/datasets/d_7daf3cec5d6d840ed2cbb3f5f2941079/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Chronicle-1945 to 1946",
+      "url": "/datasets/d_362cc124d3971ee36e7e47a3b4c4d02f/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1886 to 1890",
+      "url": "/datasets/d_28b3a85568eb8e82a0c13749afa96061/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Straits Echo (Mail Edition)-1927 to 1931",
+      "url": "/datasets/d_66160334994304e9a21d42ae2e32a5c7/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Straits Echo-1903 to 1904",
+      "url": "/datasets/d_642550222dea9b6eba88bd21bdaca1fa/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1838 to 1839",
+      "url": "/datasets/d_29c621045011e19ccff74461ef4d67ac/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-The Penang Standard and Mercantile Advertiser-1879",
+      "url": "/datasets/d_227eeceb49248626c991e8af1b7adde0/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "feb 2024",
+      "enddate": "feb 2025",
+      "title": "Newspapers-Pinang Gazette and Straits Chronicle-1891 to 1897",
+      "url": "/datasets/d_1cb3d6e4ab7e93448361745cf80419c9/view",
+      "organization": "NLB"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Ngee Ann Polytechnic Scholarships and Awards",
+      "url": "/datasets/d_7716ea16027805f9decef598b9e0c2a4/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_1199869dd751fabaea68b3ddcaf15e98/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_a402c483315e1e14817e85a4ad1942a3/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "2018 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_74b8d00ece24d4eba3c25f071dbde307/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Workforce Skills Qualifications (WSQ) Courses",
+      "url": "/datasets/d_bc509e2a46549c35ba87d25f338f5aae/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Ngee Ann Polytechnic Scholarships and Awards",
+      "url": "/datasets/d_e96a8b24d88bce6d37a24bb91a78bcdb/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "Republic Polytechnic Full-time Diploma Courses 2017",
+      "url": "/datasets/d_7fe27a841d478cc0bbe76673ea902293/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2016",
+      "enddate": "dec 2016",
+      "title": "Republic Polytechnic Full-time Diploma Courses 2016",
+      "url": "/datasets/d_0dace77327a4a3afd67e9785f15a2b06/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "2018 Short Courses",
+      "url": "/datasets/d_574a59a21d4130b274b9046507ee01eb/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Short Courses",
+      "url": "/datasets/d_7ca689905fceb556c00ea2b8181c3f86/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "Republic Polytechnic Part-Time Courses 2017",
+      "url": "/datasets/d_e0682d8b90b9e885057eacfea2c2f36f/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Short Courses",
+      "url": "/datasets/d_810edce27d452d07484ebf44b1178756/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Republic Polytechnic Part-Time Enrolment Figures 2019",
+      "url": "/datasets/d_ba4d024dbb0d290713eb71f9ef7f811f/view",
+      "organization": "RP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Ngee Ann Polytechnic Full-time Diploma Course Fees, Semester",
+      "url": "/datasets/d_04c581133bee383def55537a22c284fb/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Post Diploma Courses",
+      "url": "/datasets/d_010e59223d01d8dce45c80b7b58a3eb0/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "2020 Post Diploma Course",
+      "url": "/datasets/d_b5da906ee5f23d3e1d98aaa5e97741c0/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "2021 Post Diploma Course",
+      "url": "/datasets/d_982e09187f64695439ea867c79ff1c7f/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "2017 Skills-Based Modular Courses",
+      "url": "/datasets/d_41e0a755e94da1dc79cfc164866beac3/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Post Diploma Course",
+      "url": "/datasets/d_80862355620ee0c8b29d9d3d74131ed5/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "2019 Skills-Based Modular Courses",
+      "url": "/datasets/d_d49e726f2d2d2ed41437fc65bef39349/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "2018 Skills-Based Modular Courses",
+      "url": "/datasets/d_02eca398e879ca1b92bbcde471128d74/view",
+      "organization": "NP"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1996",
+      "enddate": "jan 2022",
+      "title": "Vice-Principals in Schools - Length of Service",
+      "url": "/datasets/d_afd4e884ea630562bed9e7048fa2b781/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2022",
+      "title": "Percentage of A Level Students Who Passed MTL at AO/H1 Level",
+      "url": "/datasets/d_5deca0e0e65e428e38b46cb4f0e2a0c4/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 2008",
+      "enddate": "jan 2022",
+      "title": "Percentage of Normal (Technical) Level Students Who Passed Mother Tongue Language",
+      "url": "/datasets/d_931990fc1980c97c91e69f77b485d1f3/view",
+      "organization": "MOE"
+    },
+    {
+      "topic": "education",
+      "startdate": "jan 1997",
+      "enddate": "jan 2022",
+      "title": "Percentage of GCE O Level Students Who Passed MTL",
+      "url": "/datasets/d_9884697f516266457dbcea861464de6e/view",
+      "organization": "MOE"
+    }
+  ]
+}

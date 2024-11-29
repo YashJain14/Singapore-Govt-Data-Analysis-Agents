@@ -1,0 +1,825 @@
+{
+  "metadata": {
+    "topic": "health",
+    "count": 102,
+    "scraped_at": "2024-10-23T23:43:19.477346"
+  },
+  "datasets": [
+    {
+      "topic": "health",
+      "startdate": "jan 2023",
+      "enddate": "jan 2024",
+      "title": "Number of COVID-19 infections by Epi-week",
+      "url": "/datasets/d_11e68bba3b3c76733475a72d09759eeb/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2023",
+      "enddate": "jan 2024",
+      "title": "Number of new COVID-19 hospitalisations / ICU admissions by Epi-week",
+      "url": "/datasets/d_98e8d8ba612a748413c439550c3c6942/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2023",
+      "enddate": "jan 2024",
+      "title": "Average daily adult ICU bed utilisation by Epi-week",
+      "url": "/datasets/d_ac42b0ea4ae0528bc9dbef90f0658f2b/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2023",
+      "enddate": "sep 2023",
+      "title": "Number of COVID-19 deaths by month",
+      "url": "/datasets/d_abeeab6fb3b739d7b234e7452bafd07c/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "dec 2020",
+      "enddate": "feb 2024",
+      "title": "Progress of COVID-19 vaccination",
+      "url": "/datasets/d_713e8c4fd88c64a7b7e55e9c2643e936/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "dec 2023",
+      "enddate": "jan 2024",
+      "title": "7-day Moving Average Daily Estimated Numbers of COVID-19 Infections",
+      "url": "/datasets/d_f431af082e77221c453895ebdc3e57ba/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2023",
+      "enddate": "jan 2024",
+      "title": "Average daily hospitalised / ICU cases by Epi-week",
+      "url": "/datasets/d_0d1da54a73733d33e40f662f757af537/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": null,
+      "enddate": null,
+      "title": "Healthier SG Whitelisted Drugs",
+      "url": "/datasets/d_2a57d4e672be2a52118ae0bf4a0f4a4b/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "sep 2022",
+      "enddate": "aug 2023",
+      "title": "Vaccination status by age group",
+      "url": "/datasets/d_5f9b504acdd7ebc298a974117b490435/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2012",
+      "enddate": "dec 2022",
+      "title": "Average Daily Polyclinic Attendances for Selected Diseases",
+      "url": "/datasets/d_5d5508f1c954f5630d7b3aa7875d01f9/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "apr 2006",
+      "enddate": "mar 2021",
+      "title": "Government Health Expenditure",
+      "url": "/datasets/d_abdadf4fc69bf0c8140a2a593e6aa7c7/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2020",
+      "enddate": "feb 2020",
+      "title": "Covid-19 Daily Figures",
+      "url": "/datasets/d_37c77bafba57a15da0da74326d6cc077/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1992",
+      "enddate": "dec 2017",
+      "title": "Prevalence of Hypertension, Diabetes, High Total Cholesterol, Obesity and Daily Smoking",
+      "url": "/datasets/d_efea9966c502767122171c61d88062db/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2014",
+      "enddate": "dec 2018",
+      "title": "Weekly Number of Dengue and Dengue Haemorrhagic Fever Cases",
+      "url": "/datasets/d_ac1eecf0886ff0bceefbc51556247015/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2008",
+      "enddate": "dec 2022",
+      "title": "Consumer Price Indices (CPI)",
+      "url": "/datasets/d_b7c2e74824c179995d15d73eac845ba1/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2012",
+      "title": "Health Behaviours among Secondary School Students by Educational Level",
+      "url": "/datasets/d_6878cd3b49aeb1881d2c3d9afb3881e5/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "may 2021",
+      "enddate": "apr 2024",
+      "title": "List of PHPCs under the National Covid-19 Vaccine Program",
+      "url": "/datasets/d_c5d9b8fd490a8473c563f5e6b221585f/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1984",
+      "enddate": "dec 2020",
+      "title": "Hospital Admissions By Sector, Annual",
+      "url": "/datasets/d_a22337386e9598a83026564c73d2881d/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2012",
+      "title": "Health Behaviours among Secondary School Students by Gender",
+      "url": "/datasets/d_0d5876e145c6526772ca84956b5d4855/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2022",
+      "title": "Health Facilities and Beds in Inpatient Facilities",
+      "url": "/datasets/d_74ee2734189f4124fefbf01c3fe48bec/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1984",
+      "enddate": "dec 2020",
+      "title": "Hospital Admissions And Public Sector Outpatient Attendances, Annual",
+      "url": "/datasets/d_a5267c58f60b20f8e04576261abfac93/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2020",
+      "title": "Hospital Admission Rate by Age and Sex",
+      "url": "/datasets/d_dd32a9abff167b63efc11fb2f25cb341/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Healthcare Professional to Population Ratio",
+      "url": "/datasets/d_391082b04c131ce998277673fbd2fe13/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Principal Causes of Death",
+      "url": "/datasets/d_48143a2b16027afcadeb362352b0266a/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2002",
+      "enddate": "dec 2017",
+      "title": "Household Healthcare Expenditure",
+      "url": "/datasets/d_59f95bfb94f977cc3d9e74ac6f156ab5/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2022",
+      "title": "Health Facilities (Primary Care, Dental Clinics and Pharmacies)",
+      "url": "/datasets/d_e4663ad3f088a46dabd3972dc166402d/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2022",
+      "title": "Health Facilities and Beds in Inpatient Facilities (Public Not-for-Profit Private)",
+      "url": "/datasets/d_852ebeb1165d0ec4cdc89fa7742959d1/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2020",
+      "title": "Common health problems of students examined - Overweight, Annual",
+      "url": "/datasets/d_7c3c14c03c4737ffefed396c477cbb94/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2012",
+      "enddate": "dec 2022",
+      "title": "Weekly Infectious Disease Bulletin Cases",
+      "url": "/datasets/d_ca168b2cb763640d72c4600a68f9909e/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1990",
+      "enddate": "dec 2021",
+      "title": "Top 10 Conditions of Hospitalisation",
+      "url": "/datasets/d_5961507eed5bede3dc9ea02432153de4/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2022",
+      "title": "Health Facilities (Dental Clinics and Pharmacies)",
+      "url": "/datasets/d_d4386b3130f3e5f7ccbbfc785602a606/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Total Number of Deaths",
+      "url": "/datasets/d_53de073a60861d4e5a1272638e6e684b/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Number of Graduates in Healthcare Specialisations by Course",
+      "url": "/datasets/d_943ba9a3d9b1e0e89ea5cbf8c58c94da/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "SGO Satellite Offices",
+      "url": "/datasets/d_585344026a85579273007a1eb048d4da/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1990",
+      "enddate": "dec 2019",
+      "title": "Age-Standardised Mortality Rate for Cancer",
+      "url": "/datasets/d_75673c9d6c4efdcd08530b55e6003976/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Outpatient Attendances (A&E, SOCs, Polyclinics, Dental)",
+      "url": "/datasets/d_e818f045a9681df2db90a493803a60d2/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2011",
+      "enddate": "dec 2011",
+      "title": "Mental Well-being Survey",
+      "url": "/datasets/d_586ef8eb3f0f49a6c871665c2aa5784f/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Doctors",
+      "url": "/datasets/d_4a15de043d48bf829b6d97c6068bbf03/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Distribution of Disability-Adjusted Life Years by Broad Cause Group",
+      "url": "/datasets/d_8a4d2f7fb02654f4cc8b624587fd57ba/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2020",
+      "title": "Hospital Admission Rate by Sex",
+      "url": "/datasets/d_66c194105cb00ce79a024b0221ab055a/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1990",
+      "enddate": "dec 2019",
+      "title": "Age-Standardised Mortality Rate for Ischaemic Heart Disease",
+      "url": "/datasets/d_d97c49f8f6ae5c9102a5598766718340/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": null,
+      "enddate": null,
+      "title": "Healthcare Schemes and Subsidies",
+      "url": "/datasets/d_586ee0cbc5c79ff8167a46132a405239/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Non-Residential Long-Term Care Facilities",
+      "url": "/datasets/d_495055a5228852a53cf0323e8dcfbaed/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jul 2022",
+      "enddate": "feb 2023",
+      "title": "Healthier Choice Symbol Product List (as of Feb 2023)",
+      "url": "/datasets/d_6725eed000bf5b3c5d310eb08de0851f/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Medisave Accounts and Balances, Annual",
+      "url": "/datasets/d_2ed23324aeac97609c4e16299ab05ffc/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1990",
+      "enddate": "dec 2019",
+      "title": "Age-Standardised Mortality Rate for Stroke",
+      "url": "/datasets/d_e3f0c53137e5ee11b6df121ec4987bb7/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": null,
+      "enddate": null,
+      "title": "HCS Website List as of 30 November 2023",
+      "url": "/datasets/d_f77e473a0063e6fafe6ae64c93cb18eb/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2011",
+      "enddate": "dec 2013",
+      "title": "Top 5 Leading Cancers by Gender",
+      "url": "/datasets/d_c375edebfa33e2ac0e29469a4755fc97/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1990",
+      "enddate": "dec 2019",
+      "title": "Health Adjusted Life Expectancy at Birth",
+      "url": "/datasets/d_c93fe829a88716926223b5ad472e6044/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Top 4 Conditions of Polyclinic Attendances",
+      "url": "/datasets/d_a1ab62d65ae87130925c1f52a1d0c79d/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2010",
+      "enddate": "dec 2022",
+      "title": "Percentage of Women Aged 25 to 69 Years Who have Pap Smear Done in the Last 3 Years",
+      "url": "/datasets/d_31b4c246dfc58a870890939e053f53b6/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2007",
+      "enddate": "dec 2021",
+      "title": "Residential Long-Term Care Admissions",
+      "url": "/datasets/d_52b76b834498c21f34a47a47c29ec140/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jul 2021",
+      "enddate": "dec 2021",
+      "title": "Listing of Licensed Tobacco Importers and Wholesalers - Dec 2021 csv",
+      "url": "/datasets/d_f51622e1a40887490d48969869522bc7/view",
+      "organization": "HSA"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1960",
+      "enddate": "dec 2019",
+      "title": "Medical Practitioner Per 10,000 Total Population",
+      "url": "/datasets/d_a9800ace0c5a6048ff2b9d06c9d602b6/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Centre- Based Care Services Attendances",
+      "url": "/datasets/d_6fd28e7f771afd20cdb36d13227faef1/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2020",
+      "title": "Common health problems of students examined - Defective Vision, Annual",
+      "url": "/datasets/d_d05099460f780ed9c7b7824540872ea2/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Nurses and Midwives",
+      "url": "/datasets/d_60cebb9df21f79d57cd4236b5bb89130/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Traditional Chinese Medicine Practitioners",
+      "url": "/datasets/d_4ebf4bf4ffde39c5fff542729e8f5161/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2008",
+      "enddate": "dec 2022",
+      "title": "Number of Advanced Practice Nurses",
+      "url": "/datasets/d_4e6368a1de5de724bdcf03e0cb29a1ee/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2008",
+      "enddate": "dec 2022",
+      "title": "Number of Dentists",
+      "url": "/datasets/d_6c8cf7ce0c6830608637418fcd0979a7/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2011",
+      "title": "Omnibus Survey 2009 & 2011",
+      "url": "/datasets/d_4b983af77d4ae25b505d84570794139d/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2010",
+      "title": "Workplace Health Promotion Programme Survey 2006 & 2010",
+      "url": "/datasets/d_a73c9efc6a51e262741a6d5b857c9d52/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2010",
+      "enddate": "dec 2016",
+      "title": "Number of children at 2 years of age immunised by sector and vaccine type",
+      "url": "/datasets/d_1ddbedb29e8d6da52c77b10ad92a7134/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2003",
+      "enddate": "dec 2022",
+      "title": "Dental Index: Dental Health Status of the School Children at 12 and 15 Years Old",
+      "url": "/datasets/d_10ada25ed89da6aee2e6e2622c764e2f/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2008",
+      "enddate": "dec 2022",
+      "title": "Number of Oral Health Therapists",
+      "url": "/datasets/d_e560a462defd495833e31ffcbe492403/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2010",
+      "enddate": "dec 2022",
+      "title": "Percentage of Women Aged 50 to 69 Years Who have gone for Mammography in the Last 2 Years",
+      "url": "/datasets/d_cc13639725550127c8a67078be1e52d8/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Number of Palliative Home Care Visits",
+      "url": "/datasets/d_7a5039dd55b317c919f5906898ddca37/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Class A MD Database",
+      "url": "/datasets/d_3be220a58a56efcc1fac36a687fc6bdb/view",
+      "organization": "HSA"
+    },
+    {
+      "topic": "health",
+      "startdate": "jul 2021",
+      "enddate": "dec 2021",
+      "title": "Listing of Licensed Tobacco Retailers - Dec 2021 csv",
+      "url": "/datasets/d_6f4b254908dab5b6aba24958438551b4/view",
+      "organization": "HSA"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1976",
+      "enddate": "dec 2015",
+      "title": "Age-standardised incidence rate of the top three cancers by gender and 5-year period",
+      "url": "/datasets/d_c8f6e2c1ac21eb0d87c23cd1b4e02715/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2001",
+      "enddate": "dec 2011",
+      "title": "National Breastfeeding Survey 2001 and 2011",
+      "url": "/datasets/d_ced52381bdb9b69d5c11f5e34bb37a55/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2020",
+      "title": "Medical examinations conducted for students by age group, Annual",
+      "url": "/datasets/d_8f51207e4426b9e734d58a1d836f0770/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Number of Pharmacists",
+      "url": "/datasets/d_4e363bee1f4dc83cd68536eb5037b590/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Number of Policyholders for MediShield and Integrated Shield Plans, Annual",
+      "url": "/datasets/d_a9acac29f36a10e43d4b14a793685c77/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "apr 2006",
+      "enddate": "mar 2022",
+      "title": "Medifund Applications and Grants Disbursed, Annual",
+      "url": "/datasets/d_bcde2c5ad440e32bdc116732a26d9c33/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Number of Home Care Visits",
+      "url": "/datasets/d_de3b13ddad35aa0bf8465bdd7c5c3be9/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Percentage of Children Aged 2 Years Immunised",
+      "url": "/datasets/d_37335a12399a0832718f50a45abca8b6/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2020",
+      "title": "Medical examinations conducted for students, Annual",
+      "url": "/datasets/d_614c6d79fbe69bd7a3cd50c7619d264e/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2017",
+      "title": "Visits to Public Sector Dental Clinics (Further Breakdown)",
+      "url": "/datasets/d_c0ff8cbc81269377e8b698a3590b2f89/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2017",
+      "title": "Visits to Public Sector Dental Clinics",
+      "url": "/datasets/d_1f13195bc2a16584c52bd8bec993b5e3/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 1999",
+      "enddate": "dec 2016",
+      "title": "Age-standardised incidence rate and prevalence rate for definitive dialysis and transplant",
+      "url": "/datasets/d_2bab04d5ce7f7bdcc05612904d93219f/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2004",
+      "enddate": "dec 2010",
+      "title": "National Nutrition Survey - Carbohydrate Intake by Gender and Age Group",
+      "url": "/datasets/d_0f7f65e8362cfee6d45d46a0cea2e599/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": null,
+      "enddate": null,
+      "title": "Health Diseases and Conditions",
+      "url": "/datasets/d_01d45cd7b2113dc0c433bcd5218b67b8/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2008",
+      "enddate": "dec 2022",
+      "title": "Number of Opticians and Optometrists",
+      "url": "/datasets/d_311d47ba147e37d45dc9c89e05ca726c/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Percentage of Primary 1 and Equivalent Age Groups Medically Screened",
+      "url": "/datasets/d_92b1ebc1dde9d30463234aa9e03ec1a4/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Residential Long-Term Care Facilities",
+      "url": "/datasets/d_510bfce0ddc331e535938b6c3f170ea8/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2008",
+      "enddate": "dec 2021",
+      "title": "Percentage of Primary 1 and Equivalent Age Groups Immunised",
+      "url": "/datasets/d_5fca9102d1b36e5a10bb4568d5dbec68/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2007",
+      "enddate": "dec 2012",
+      "title": "National Behavioural Surveillance Survey",
+      "url": "/datasets/d_eb4be8c8e136b255a7b6a4e7d5e73964/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2005",
+      "enddate": "dec 2014",
+      "title": "Age-standardised incidence rate of stroke by gender",
+      "url": "/datasets/d_8bdb83a1e333289738604756b1a291f9/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2004",
+      "enddate": "dec 2010",
+      "title": "National Nutrition Survey - Carbohydrate Intake by Gender",
+      "url": "/datasets/d_6a42359b27477f8f6609855d2fbe04db/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jul 2021",
+      "enddate": "dec 2021",
+      "title": "Listing of poison license holder - Dec 2021 csv",
+      "url": "/datasets/d_b1d236af9430bbe874b4dd97aa97a684/view",
+      "organization": "HSA"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Residential Long-Term Care Facilities Sector Breakdown",
+      "url": "/datasets/d_40bcf053c1487f0baef85f2f50cef81e/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2007",
+      "enddate": "dec 2016",
+      "title": "Age-standardised incidence rate of acute myocardial infarction by gender",
+      "url": "/datasets/d_7d038b84a02d4edb399db0f84949a173/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2009",
+      "enddate": "dec 2019",
+      "title": "Vaccination and immunisation of students, Annual",
+      "url": "/datasets/d_5803ad431c25d4615416159a39858c7b/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2004",
+      "enddate": "dec 2010",
+      "title": "National Nutrition Survey - Carbohydrate Intake by Gender and Race",
+      "url": "/datasets/d_068f155eb134572d9e198f6045a3d34a/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2014",
+      "enddate": "dec 2022",
+      "title": "Number of Speech Therapists",
+      "url": "/datasets/d_1592c9f0a1dedec694dccf6120d9d537/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Number of Policyholders for ElderShield, Annual",
+      "url": "/datasets/d_6df6086af759a419ea8140f4b057eb0d/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2010",
+      "enddate": "dec 2016",
+      "title": "Immunisation coverage for children at 2 years of age",
+      "url": "/datasets/d_700cf3ba76f0199b58a8fe74c7412845/view",
+      "organization": "HPB"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2014",
+      "enddate": "dec 2022",
+      "title": "Number of Physiotherapists",
+      "url": "/datasets/d_873e95590cfd9d0b3f8a6c6db6a5bc38/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2014",
+      "enddate": "dec 2022",
+      "title": "Number of Occupational Therapists",
+      "url": "/datasets/d_81247b2086d545398601aa022d4a0fe8/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2017",
+      "title": "Number of Dental Schools and Pharmacy Schools in the Schedule",
+      "url": "/datasets/d_1f1faa635f8695c307ec6ca5261a4578/view",
+      "organization": "MOH"
+    },
+    {
+      "topic": "health",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of Acupuncturists",
+      "url": "/datasets/d_f13a03d7ee03bb598a8f852e1e4433a9/view",
+      "organization": "MOH"
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "metadata": {
+    "topic": "environment",
+    "count": 102,
+    "scraped_at": "2024-10-23T23:44:12.834292"
+  },
+  "datasets": [
+    {
+      "topic": "environment",
+      "startdate": "jan 2009",
+      "enddate": "nov 2017",
+      "title": "Historical Daily Weather Records",
+      "url": "/datasets/d_03bb2eb67ad645d0188342fa74ad7066/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Rainfall - Monthly Total",
+      "url": "/datasets/d_b16d06b83473fdfcc92ed9d37b66ba58/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Surface Air Temperature - Monthly Mean",
+      "url": "/datasets/d_755290a24afe70c8f9e8bcbf9f251573/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Rainfall - Monthly Number of Rain Days",
+      "url": "/datasets/d_134857f63c76d227b6fa045f31ce59c1/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "dec 2023",
+      "enddate": "nov 2024",
+      "title": "Dates of Hawker Centres Closure",
+      "url": "/datasets/d_bda4baa634dd1cc7a6c7cad5f19e2d68/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Bunker Sales Breakdown, Monthly",
+      "url": "/datasets/d_4f5abbf4486bf8e52bbed3be56dde562/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2014",
+      "enddate": "dec 2020",
+      "title": "Historical 24-hr PSI",
+      "url": "/datasets/d_b4cf557f8750260d229c49fd768e11ed/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2016",
+      "enddate": "sep 2016",
+      "title": "List of Government Markets Hawker Centres",
+      "url": "/datasets/d_68a42f09f350881996d83f9cd73ab02f/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "aug 2024",
+      "title": "Wet Bulb Temperature - Hourly",
+      "url": "/datasets/d_f222c70a7c00c5a5a9d4ec432d67f6e8/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Surface Air Temperature - Monthly Mean Daily Maximum",
+      "url": "/datasets/d_b0fb69de67054d6d741bea78274ecc2a/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Sunshine Duration- Monthly Mean Daily Duration",
+      "url": "/datasets/d_9a80d732aa5de0a68be0557fc9437ad0/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Recycling Rate By Waste Type",
+      "url": "/datasets/d_9740df787da2b59a0b5bd76a6c33453d/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Relative Humidity - Monthly Mean",
+      "url": "/datasets/d_e3b1111a26b2aefef4f386c068d4ca5d/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Bunker Sales Total, Monthly",
+      "url": "/datasets/d_89d2874dad74a273270369334f1e7d28/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2002",
+      "enddate": "jan 2023",
+      "title": "Air Pollutant - Particulate Matter PM2.5",
+      "url": "/datasets/d_397fe8de643aea9927bdee32e49307ff/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Rainfall - Monthly Highest Daily Total",
+      "url": "/datasets/d_53ffdaa97e48ce934cf92799d381f3b1/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Surface Air Temperature - Monthly Mean Daily Minimum",
+      "url": "/datasets/d_c92edf841336f03ab51c6693ac8d33ad/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "jan 2023",
+      "title": "Surface Air Temperature - Annual Mean Daily Maximum",
+      "url": "/datasets/d_8e72ca09d5000b490126e3cd492f942b/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jun 2016",
+      "enddate": "jun 2016",
+      "title": "List of Supermarket Licences",
+      "url": "/datasets/d_11edd0117280c5776651d7891114c88c/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Waste Recycled",
+      "url": "/datasets/d_8d95dc5ffcc9a18e049fc86d4513563c/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Waste Generated",
+      "url": "/datasets/d_316f1b0ac752001277c24cd12c3df205/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Surface Air Temperature - Monthly Absolute Extreme Maximum",
+      "url": "/datasets/d_72a4d7402d4014f1999a009864f64a11/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "jan 2023",
+      "title": "Air Pollutant - Ozone (Maximum 8-hour Mean)",
+      "url": "/datasets/d_12e90ff1178704ebd56dc2fff04eef56/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "jan 2023",
+      "title": "Air Pollutant - Nitrogen Dioxide",
+      "url": "/datasets/d_88dcbdd26f7adbb5a469491378abfedc/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "jan 2023",
+      "title": "Air Pollutant - Particulate Matter PM10 (24-hr Mean -99th Percentile)",
+      "url": "/datasets/d_dc29ecdc06f1f2b42c3dd06dd1ab8e6b/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "jan 2023",
+      "title": "Air Pollutant - Sulphur Dioxide (Maximum 24-hour Mean)",
+      "url": "/datasets/d_ec484d9610a22c57fa873b14f9baa57a/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2007",
+      "enddate": "dec 2013",
+      "title": "Carbon Dioxide Emissions (From Combustion Of Fossil Fuels)",
+      "url": "/datasets/d_4ab7c63c152147042394397f2b61b96a/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "jan 2023",
+      "title": "Surface Air Temperature - Annual Mean Daily Minimum",
+      "url": "/datasets/d_be96fc5a86b96f228efd7addaf7e61a8/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "Coastal and Marine Habitat Map - Code and Type",
+      "url": "/datasets/d_35136d8e1d6c696c134e09af6063dc6a/view",
+      "organization": "NPARKS"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Surface Air Temperature - Monthly Absolute Extreme Minimum",
+      "url": "/datasets/d_3b4b0418948847eaca93546f7574e365/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2007",
+      "enddate": "dec 2015",
+      "title": "Dengue Outbreak Statistics",
+      "url": "/datasets/d_8763ae810003718ad638e719ec9118df/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "jan 2023",
+      "title": "Air Pollutant - Carbon Monoxide  (Maximum 8-Hour Mean)",
+      "url": "/datasets/d_fdf8b7d640136ddd3bf461abf33d9b40/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2003",
+      "enddate": "dec 2014",
+      "title": "Climate Change and Energy - Green Vehicles",
+      "url": "/datasets/d_5e5c2fa3ec41618eb7c17fc14b2be70b/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2014",
+      "title": "Waste Disposed Of And Recycled, Annual",
+      "url": "/datasets/d_96d95bfc9867daa138a451950dc7cc4e/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2014",
+      "enddate": "nov 2023",
+      "title": "Historical 1-hr PM2.5",
+      "url": "/datasets/d_6c0d5fc34838b12472475fdb73c0af29/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Waste Landfilled, Annual",
+      "url": "/datasets/d_f0ad4d1fb8c2a9089981fd2f3fe07111/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2014",
+      "enddate": "jun 2021",
+      "title": "Residential Property Rental Information",
+      "url": "/datasets/d_fd729d7ad678fe831d06c52bb19f9622/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Waste Incinerated",
+      "url": "/datasets/d_0fefa8455a070b420aed1cb671f379b8/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1960",
+      "enddate": "dec 2022",
+      "title": "Total Land Area of Singapore",
+      "url": "/datasets/d_f74e5ee9575e98ba439bee67e8f9b097/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "sep 2024",
+      "title": "Relative Humidity - Absolute Monthly Extreme Minimum",
+      "url": "/datasets/d_54445baa32ffe4d46f5bef168c4e0538/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jun 2015",
+      "enddate": "sep 2016",
+      "title": "List of NEA Licensed Eating Establishments",
+      "url": "/datasets/d_227473e811b09731e64725f140b77697/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2011",
+      "enddate": "dec 2018",
+      "title": "Sale of Water",
+      "url": "/datasets/d_75f649fdf98fb998a0ce696232632e53/view",
+      "organization": "MSE"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1993",
+      "enddate": "sep 2024",
+      "title": "Vessel Calls (>75 GT), Monthly",
+      "url": "/datasets/d_48cb38d12697d3463c8cadfb22e6c61d/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1982",
+      "enddate": "jan 2023",
+      "title": "Relative humidity- Annual mean",
+      "url": "/datasets/d_31dbf162e94f76065e1e4c60a80a4264/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2004",
+      "enddate": "dec 2022",
+      "title": "SLA Tender and Bidding Results Information",
+      "url": "/datasets/d_2057d332317dd0d045e392fe4e9aca57/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1993",
+      "enddate": "dec 2017",
+      "title": "Total Licensed Food Establishments by Category, Annual",
+      "url": "/datasets/d_6188a67536a7a12751ee690e96b506fa/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1993",
+      "enddate": "dec 2014",
+      "title": "Licensed Food Shops, (End Of Period), Annual",
+      "url": "/datasets/d_0d25efc0c39f97d8e260086162867718/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2011",
+      "enddate": "dec 2018",
+      "title": "Sale of Portable Water by Domestic or Non-Domestic",
+      "url": "/datasets/d_150df164ad7cfa08adbcb0524e1cb2c2/view",
+      "organization": "MSE"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1993",
+      "enddate": "dec 2017",
+      "title": "Licensed Food Establishments by Category, Annual",
+      "url": "/datasets/d_dbf37846568f6a5595b4f16f110b4619/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Cargo Throughput Breakdown, Monthly Data",
+      "url": "/datasets/d_835d43b9238c6fc877dfcd62d73054a9/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2006",
+      "enddate": "jan 2023",
+      "title": "Air Polluant - Lead",
+      "url": "/datasets/d_f71b15a17a8ce278d3d3d55383f86687/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Registered Vessels and Shipping Tonnage, Monthly",
+      "url": "/datasets/d_56f64b2d5a31eb0ee465cc51e83ac60a/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2007",
+      "enddate": "dec 2013",
+      "title": "Energy Consumption Per Dollar GDP (% Improvement From 2005 Levels)",
+      "url": "/datasets/d_0a6e94f474ada55c3e81d088463cf321/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Container Throughput, Monthly",
+      "url": "/datasets/d_da030f7028200d19ffcbe4a2d71af39c/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2007",
+      "enddate": "dec 2013",
+      "title": "Carbon Intensity of Electricity Generation",
+      "url": "/datasets/d_bc140b67a8708ba19c39d69182893f31/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2008",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Lifespan of Semakau Landfill, Annual",
+      "url": "/datasets/d_a2d2c21343d4bfff47d151e4ab74d138/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Vessel Arrivals (>75 GT) Breakdown, Monthly",
+      "url": "/datasets/d_8f264219109e61fffa87ac64dd5a9a65/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Cargo Throughput Total, Monthly Data",
+      "url": "/datasets/d_042dd8b935eab998f389adaf559c80de/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Energy Produced From Incineration, Annual",
+      "url": "/datasets/d_90bdd35c5c5b4a34b3508eb613424a9a/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Domestic Waste Disposed of",
+      "url": "/datasets/d_aea2e18e0f8fdf9b4c51b0c441ffc625/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Integrated Land Information Service (INLIS) Transaction Volume",
+      "url": "/datasets/d_7d6b025f30679012155fe2ea0d66b1a2/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "sep 2014",
+      "enddate": "mar 2020",
+      "title": "List of Cleaning Contractors and Location of Work",
+      "url": "/datasets/d_8383572bdfd37d3586933c3ff5ec1922/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "sep 2024",
+      "title": "Vessel Arrivals (>75 GT) Total, Monthly",
+      "url": "/datasets/d_d48c5a038904f6da3c603cd854b6c191/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Registration of Documents Lodged for HDB Properties",
+      "url": "/datasets/d_88e252fe9febb6cf122a24f9193f1138/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2002",
+      "enddate": "sep 2024",
+      "title": "Tanker Arrivals Breakdown, Monthly",
+      "url": "/datasets/d_c9dcfd8b85990669d1e74dd7ad71eb8b/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Registered Vessels and Shipping Tonnage, Annual",
+      "url": "/datasets/d_0c586210d33756a56ef6213078e749aa/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Bunker Sales Total, Annual",
+      "url": "/datasets/d_ccb330e6679674ffaa330dc76136e198/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Container Throughput, Annual",
+      "url": "/datasets/d_085682b824700b4e88d946529f503da0/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "feb 2015",
+      "enddate": "feb 2015",
+      "title": "Listing of General Waste Collectors",
+      "url": "/datasets/d_26afdd562f28b4acecb400c10b70f013/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2011",
+      "enddate": "mar 2021",
+      "title": "Breakdown by Use of SLA Managed Properties",
+      "url": "/datasets/d_e89cd21c636e5b7588b73cec0090de00/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Utilisation Rate of State Land",
+      "url": "/datasets/d_7c84165fa3e7b2449f8927f1b97fa79b/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Vessel Arrivals (>75 GT) Total, Annual Data",
+      "url": "/datasets/d_8392e9bea6ca351a38f67172ccdf6a6a/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Domestic Waste Disposed Per Capita",
+      "url": "/datasets/d_836d960a43625b78cfde04d5225befce/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2008",
+      "enddate": "dec 2014",
+      "title": "Pollution Control - Number Of Hazardous Substances Licences and Permits Issued, Annual",
+      "url": "/datasets/d_345313948f038e5aabc66ba33f4ea178/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2002",
+      "enddate": "jan 2023",
+      "title": "Tanker Arrivals Total, Annual Data",
+      "url": "/datasets/d_eb1c7c0c9ee013f9be42cc8abf523326/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Non Domestic Waste Disposed of, Annual",
+      "url": "/datasets/d_11b93f866c718775be0d859bf2f3d34c/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Cargo Throughput Breakdown, Annual Data",
+      "url": "/datasets/d_a30479ad55e045bcaffacf587d05966c/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1989",
+      "enddate": "dec 2014",
+      "title": "Number of Hawker Stalls Under Government Market and Hawker Centres, Annual",
+      "url": "/datasets/d_894e84243d69d55c13b357dbad4e6350/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1981",
+      "enddate": "dec 2015",
+      "title": "Number of Licensed Hawkers Under Government Market and Hawker Centres, Annual",
+      "url": "/datasets/d_874cb8683b003051794caaa0c2423ed5/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2002",
+      "enddate": "sep 2024",
+      "title": "Tanker Arrivals Total, Monthly",
+      "url": "/datasets/d_9adb5ace517591edd9a8c88291ac1f1c/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2011",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Total Non-Domestic Waste Disposed of Per S$Billion GDP, Annual",
+      "url": "/datasets/d_b2cb55562b85d36462e9687a076f20e9/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Vessel Calls (>75 GT), Annual",
+      "url": "/datasets/d_60410de1bc1e63ddcf51a619081b11b3/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Vessel Arrivals (>75 GT) Breakdown, Annual Data",
+      "url": "/datasets/d_b0c64c019b252698a9f1a222dcf9e0a6/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jun 2016",
+      "enddate": "jun 2016",
+      "title": "Registered Environmental Control Officer (ECO)",
+      "url": "/datasets/d_2a0bee4473e1d1d8635b4e63e2279eb9/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Cargo Throughput Total, Annual Data",
+      "url": "/datasets/d_8ab8d71a6bf44097889dd6a3b4258928/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Solid Waste Management - Population With Access to Waste Collection Services, Annual",
+      "url": "/datasets/d_5692f13ebc022be89c8cc817d30798f8/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Registration of Documents Lodged for Private Properties",
+      "url": "/datasets/d_bca4d02876096ed574ca17af078c1f5a/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Approval of Land Lots",
+      "url": "/datasets/d_ca924e80ef4a5251486a738282f20f37/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Occupancy Rate of State Properties",
+      "url": "/datasets/d_d7caa01b45aee232265aecd71a703be3/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Total Area of State Land Sold to Public Agencies",
+      "url": "/datasets/d_9ee0c9b7c8c084dd75aa521938d771ca/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jun 2016",
+      "enddate": "jun 2016",
+      "title": "Pesticides/Repellent Registered with NEA",
+      "url": "/datasets/d_9e879860c62144c6f44011ad4bb04b82/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1995",
+      "enddate": "jan 2023",
+      "title": "Bunker Sales Breakdown, Annual",
+      "url": "/datasets/d_0a76d48f3754aafd08f98629324a54c6/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Total Area of State Land Sold to Private Sector",
+      "url": "/datasets/d_8e5a428ed5f672d184297d9abb243702/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "oct 2007",
+      "enddate": "nov 2010",
+      "title": "SLA Sale Sites",
+      "url": "/datasets/d_7a043a1e4dee8041cff62b2cdd152b03/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2002",
+      "enddate": "jan 2023",
+      "title": "Tanker Arrivals Breakdown, Annual Data",
+      "url": "/datasets/d_1714a141d8bbf1996965eb3f71565525/view",
+      "organization": "MPA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jun 2016",
+      "enddate": "jun 2016",
+      "title": "Registered Vector Control Operator (VCO)",
+      "url": "/datasets/d_0921c2daa08b8bd846d2405c934da8c6/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 1993",
+      "enddate": "dec 2014",
+      "title": "Licensed Supermarkets, (End Of Period), Annual",
+      "url": "/datasets/d_34ba4c6d34d95f6bc06244917f62a0d8/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2008",
+      "enddate": "mar 2021",
+      "title": "Electronic Searches (DIPS, STARS)",
+      "url": "/datasets/d_0c31f4f020f352c9c0c2b120d352b456/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "jan 2008",
+      "enddate": "dec 2015",
+      "title": "Number of Radiation Licenses Issued by Type, Annual",
+      "url": "/datasets/d_b5dfc383eb8e97e940ac555a226d7196/view",
+      "organization": "NEA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Issuance of Title Documents for Completed Private Properties",
+      "url": "/datasets/d_b672ba5cd181fd699e5463e03ca5f3d3/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "apr 2010",
+      "enddate": "sep 2022",
+      "title": "Approval of Strata Lots",
+      "url": "/datasets/d_b0505f2a0218d38fdeaa6217753a0b68/view",
+      "organization": "SLA"
+    },
+    {
+      "topic": "environment",
+      "startdate": "feb 1992",
+      "enddate": "oct 2014",
+      "title": "List of Radiation Licences",
+      "url": "/datasets/d_876921464cb577cb979e5bd75cd7d1c4/view",
+      "organization": "NEA"
+    }
+  ]
+}

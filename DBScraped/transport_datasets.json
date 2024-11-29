@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "topic": "transport",
+    "count": 88,
+    "scraped_at": "2024-10-23T23:43:22.248070"
+  },
+  "datasets": [
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2020",
+      "title": "Annual Motor Vehicle Population by Vehicle Type",
+      "url": "/datasets/d_2873f3b1b2a836103f51f696350b98fa/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1995",
+      "enddate": "dec 2016",
+      "title": "Public Transport Utilisation - Average Public Transport Ridership",
+      "url": "/datasets/d_75248cf2fbf340de6a746dc91ec9223c/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1961",
+      "enddate": "feb 2020",
+      "title": "Total Air Passenger Departures by Country",
+      "url": "/datasets/d_63376918b07c22a30969ba4a9ce6ac58/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2014",
+      "title": "Average Daily Traffic Volume Entering the City",
+      "url": "/datasets/d_3136f317a1f282a33fe7a2f6a907c047/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1961",
+      "enddate": "feb 2020",
+      "title": "Total Air Passenger Departures",
+      "url": "/datasets/d_a81d5f8d52b89970823dcb17c3e9a77f/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "nov 2018",
+      "enddate": "nov 2018",
+      "title": "Carpark Rates",
+      "url": "/datasets/d_9f6056bdb6b1dfba57f063593e4f34ae/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "dec 2022",
+      "enddate": "dec 2023",
+      "title": "Fares for MRT and LRT (Effective from 23 December 2023)",
+      "url": "/datasets/d_2ca29f673b89e0cfddbb7c74516fa4d3/view",
+      "organization": "PTC"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1961",
+      "enddate": "feb 2020",
+      "title": "Total Air Passenger Departures by Region",
+      "url": "/datasets/d_449d7c1fe63a84242813f4181b50bfdc/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2014",
+      "title": "Average Speed During Peak Hours",
+      "url": "/datasets/d_26f6afadf2f86b2004f9a1e28f5564cc/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2014",
+      "title": "Public Transport Journeys",
+      "url": "/datasets/d_d6921f812624c2b1bb1d68269354dc71/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2014",
+      "title": "Public Transport Utilisation - Average Trip Distance",
+      "url": "/datasets/d_1e8c9a3f599bca92c76bdb7d8a52a79a/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2002",
+      "enddate": "dec 2013",
+      "title": "Commuter Facilities",
+      "url": "/datasets/d_778e6d2eaf4a3812aab0d1a1bdf7fd38/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2013",
+      "title": "Public Transport Capacity - Bus Routes in Operation",
+      "url": "/datasets/d_4b650f7d8233247fc1a2d6bb974df260/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "feb 2019",
+      "title": "New Registration of Cars by Make",
+      "url": "/datasets/d_d3f4d708e1d0a37b4365414e2fad3a07/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2017",
+      "title": "Number of MRT and LRT Stations",
+      "url": "/datasets/d_34dc2eb007a14ef406474abfb43c8671/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Motor Vehicle Population by Vehicle Quota Categories",
+      "url": "/datasets/d_cc30f50369bcd6b6f848a586bded2290/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Car Population by Make",
+      "url": "/datasets/d_20d3fc7f08caa581c5586df51a8993c5/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1961",
+      "enddate": "aug 2019",
+      "title": "Total Air Passenger Arrivals by Country",
+      "url": "/datasets/d_85d4bacd407ddf8b0b7d9a4089769321/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2013",
+      "title": "Public Transport Capacity - Average Daily Distance Travelled",
+      "url": "/datasets/d_120bba76c28dd4706e0cf85693827e64/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1980",
+      "enddate": "jul 2020",
+      "title": "Civil Aircraft Arrivals, Departures and Passengers, Changi Airport, Monthly",
+      "url": "/datasets/d_e91c955ca5910869dc57afdb5b7d524d/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1961",
+      "enddate": "aug 2019",
+      "title": "Total Air Passenger Arrivals",
+      "url": "/datasets/d_0dd661d35ab2a9e59d8e77fee8ed3c7a/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jun 2017",
+      "enddate": "jun 2017",
+      "title": "Train Station Chinese Names",
+      "url": "/datasets/d_d312a5b127e1ae74299b8ae664cedd4e/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2015",
+      "enddate": "jan 2018",
+      "title": "Monthly Revalidation of COE",
+      "url": "/datasets/d_11af4cacfdd459f8712fb903b1639d98/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2006",
+      "enddate": "dec 2018",
+      "title": "Annual Motor Vehicle Population by Type of Fuel Used",
+      "url": "/datasets/d_7a0847fef60362e46e59d0f844c938ba/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Public Transport Capacity - Monthly Taxi Population",
+      "url": "/datasets/d_884c2efb2103bc66dc2b8725173be85b/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "dec 2022",
+      "enddate": "dec 2023",
+      "title": "Monthly Concession Passes (Effective from 23 December 2023)",
+      "url": "/datasets/d_b2d044a38a87a3f04d1802103b27f1bb/view",
+      "organization": "PTC"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Total Annual New Registration By Make",
+      "url": "/datasets/d_2fcb043ef09016ae757bc396cd8f5027/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2018",
+      "title": "Average Annual Kilometres Travelled Per Vehicle",
+      "url": "/datasets/d_bdc4c6434e47b055de4b5f2fde10c1af/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2014",
+      "enddate": "apr 2020",
+      "title": "New Registration of Motor Vehicles Under Vehicle Quota System (VQS)",
+      "url": "/datasets/d_06c3969c73ac5ba2d059cf39491ce048/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1994",
+      "enddate": "dec 2017",
+      "title": "Pedestrian Facilities",
+      "url": "/datasets/d_45175a1ff466b44414a9a1aeef564e6f/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2006",
+      "enddate": "dec 2017",
+      "title": "Annual Revalidation of Certificate of Entitlement (COE) of Existing Vehicles",
+      "url": "/datasets/d_71ce745d4e4ea9cd2fea0fdf46412fc8/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2012",
+      "enddate": "feb 2018",
+      "title": "Monthly Motor Vehicle Population by Vehicle Type",
+      "url": "/datasets/d_2ecb009f1e1ec5a816a454944dec4022/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1961",
+      "enddate": "aug 2019",
+      "title": "Total Air Passenger Arrivals by Region",
+      "url": "/datasets/d_552887b6cf1cf0ec0dc8ea3e56bc406f/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "dec 2020",
+      "title": "Quarterly New Registration of Vehicle Population",
+      "url": "/datasets/d_f8408eaf8ecf45adae760a035b8d850d/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "New Registration of Motor Vehicles under Vehicle Quota System (VQS)",
+      "url": "/datasets/d_f52d6995ea85ad8d5088906d7a24d5df/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Age Distribution of Cars",
+      "url": "/datasets/d_84a51e9c461863d6251b8a37706e3d0b/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1994",
+      "enddate": "dec 2017",
+      "title": "Traffic Lights",
+      "url": "/datasets/d_03c133a999057087ebc3a783fba5bfa8/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Rail Length (km) At End-of-Year",
+      "url": "/datasets/d_d6e505b87580a4bae4aae0beb07d3de6/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "jan 2020",
+      "title": "Motor Vehicle Population Statistics by Type of Fuel Used",
+      "url": "/datasets/d_b876ece1b4a3bb5ebdc33c4394a236a2/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1980",
+      "enddate": "jul 2020",
+      "title": "Volume of Mail, Changi Airport, Monthly",
+      "url": "/datasets/d_a97d6867514c6b0119f45024d2606106/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "may 2019",
+      "title": "Total Air Cargo Discharged in Tonnes by Country",
+      "url": "/datasets/d_1c29d08855715fe6e38f5a48acb09502/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1994",
+      "enddate": "dec 2017",
+      "title": "Traffic Facilities",
+      "url": "/datasets/d_046cd30aebfcb866dcb6fbf2fd4d91fb/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "feb 2018",
+      "title": "New Registration of Goods Vehicles & Buses by Make",
+      "url": "/datasets/d_86bb6c042ec0b1269fe0de79cff61121/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "aug 1972",
+      "enddate": "jan 2018",
+      "title": "Identification Marks for Cars Registered in Singapore",
+      "url": "/datasets/d_e20a118c3af1bb167cb7cbc17e44db18/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Length of Roads (Kilometres)",
+      "url": "/datasets/d_fe4922bfe352a1250edac15bd1453799/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "oct 2000",
+      "enddate": "jul 2019",
+      "title": "Air Accident Investigation Reports by Date",
+      "url": "/datasets/d_475cbf8a66dc80b7a19ef7999039869f/view",
+      "organization": "MOT"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jun 2017",
+      "enddate": "jun 2017",
+      "title": "Bus Stop Chinese Names",
+      "url": "/datasets/d_54592963dbd23464b875379a21c2cfe9/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "feb 2018",
+      "title": "Age Distribution of Motor Vehicles",
+      "url": "/datasets/d_2620d9f92656afc0f0a0f0ab2f320406/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "may 2015",
+      "enddate": "may 2015",
+      "title": "Wheelchair Accessible Bus Services",
+      "url": "/datasets/d_93a768ea4f271eac5300c38d31be447f/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Bus Population by Passenger Capacity",
+      "url": "/datasets/d_6877490600b1cc6c4dba2f692b8ddabb/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Motor Vehicle De-registration under Vehicle Quota System (VQS)",
+      "url": "/datasets/d_6e50d957520951abb4083d2b2bd0ae90/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2014",
+      "enddate": "apr 2020",
+      "title": "Motor Vehicles De-registered under Vehicle Quota System (VQS)",
+      "url": "/datasets/d_1332f905376c3848bdcc032423ca5563/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "All motorcycles including scooters registered in Singapore. Figures include all road tax e",
+      "url": "/datasets/d_f25d005b5dc4807dceb12a670f6f7ab4/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Car Population by CC",
+      "url": "/datasets/d_ce53d6aaefdf6deed4773fbb19252416/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "dec 2022",
+      "enddate": "dec 2023",
+      "title": "Fares for Feeder Bus Services (Effective from 23 December 2023)",
+      "url": "/datasets/d_5c9bcc72089fb094f654ebf10854feda/view",
+      "organization": "PTC"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2017",
+      "title": "Number of Street Lighting",
+      "url": "/datasets/d_46ef5e3e96bc72a016296edd7dc4ce76/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "dec 2015",
+      "enddate": "apr 2016",
+      "title": "Premium Bus Services",
+      "url": "/datasets/d_be2accb464cc5600de937eb9000a0255/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1994",
+      "enddate": "dec 2017",
+      "title": "Vehicular Facilities",
+      "url": "/datasets/d_303d1c336ab44fe035285857e2341bdb/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2014",
+      "enddate": "feb 2018",
+      "title": "Motor Vehicle Population under Vehicle Quota System",
+      "url": "/datasets/d_f8876e8c0959ba5bcfa2c40cf6d25dab/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "jul 2019",
+      "title": "Total Air Cargo Discharged in Tonnes by Country",
+      "url": "/datasets/d_7bb9883267ddd43edf7b7738474bf663/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "dec 2020",
+      "title": "Quarterly Deregistration of Vehicle Population",
+      "url": "/datasets/d_5a32a72cbc741ecfda152c20677f0f3d/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Motorcycle Population by CC Rating",
+      "url": "/datasets/d_3e182eb6d9d7eb78addb26a9c7179204/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "dec 2022",
+      "enddate": "dec 2023",
+      "title": "Fares for Express Bus Services (Effective from 23 December 2023)",
+      "url": "/datasets/d_bf2ed06b8fcda382b0f83133b174e07f/view",
+      "organization": "PTC"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Length of Roads (Lane-Kilometres)",
+      "url": "/datasets/d_8415afe86e594bdc18f0f04a71d5f210/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "may 2019",
+      "title": "Air Cargo Discharged, Monthly",
+      "url": "/datasets/d_0fc304ce6a9532af0e0d758febaa3270/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "jul 2019",
+      "title": "Total Air Cargo Discharged in Tonnes by Region",
+      "url": "/datasets/d_0d251406b2cf7866cfabfbf08aaec25a/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual New Registration of Motorcycles by Make",
+      "url": "/datasets/d_1ed5455eae3ccef5d487acb3b2d34b6f/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "dec 2022",
+      "enddate": "dec 2023",
+      "title": "Fares for Trunk Bus Services (Effective from 23 December 2023)",
+      "url": "/datasets/d_828dcf144fe4f82c85c53d15a19e920f/view",
+      "organization": "PTC"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2011",
+      "enddate": "dec 2017",
+      "title": "Total Annual Effective Transfer of Car Ownership by Make",
+      "url": "/datasets/d_4974c1fb1ab0299977a5f6185f911963/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "feb 2019",
+      "title": "New Registration of Motocycles by Make",
+      "url": "/datasets/d_3f05a91ecfc896a2cc04512c8a1a0a9e/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "jun 2019",
+      "title": "Total Air Cargo Loaded",
+      "url": "/datasets/d_89b8d4e5fc980bbf8d8f9bad0baf465b/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2017",
+      "title": "Goods and Other Vehicle Population by Type of Body and Maximum Laden Weight",
+      "url": "/datasets/d_e530c5bdab571ea2e1f77d1a1a114e76/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "jul 2019",
+      "title": "Marine accident investigation reports by date",
+      "url": "/datasets/d_dc67ac1c5638f81529ccf84df357e6d8/view",
+      "organization": "MOT"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2014",
+      "enddate": "feb 2018",
+      "title": "Monthly Type and Number of Vehicles Transferred",
+      "url": "/datasets/d_c96f6cf4249faf29878b454172374658/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2013",
+      "enddate": "feb 2018",
+      "title": "Off Peak Cars - New Registrations",
+      "url": "/datasets/d_2a855e55a927e077666d7553a741543b/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "jul 2019",
+      "title": "Total Air Cargo Discharged in Tonnes",
+      "url": "/datasets/d_fcd0960a8fed6a9bf69b6d45e7d78752/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "jun 2019",
+      "title": "Total Air Cargo Loaded in Tonnes by Country",
+      "url": "/datasets/d_6559e0db251552959cfe2fc04a707a68/view",
+      "organization": "CAAS"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2016",
+      "enddate": "feb 2018",
+      "title": "Effective Transfer of Car Ownership by Make",
+      "url": "/datasets/d_ab595ec8b7cbcb7a40d49e5435c2f78a/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Goods Vehicle and Bus Population By Make",
+      "url": "/datasets/d_f9fc45b610aa9d100db3abef789e3ef5/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Age Distribution of Motorcycles",
+      "url": "/datasets/d_be399e1e9887080e075da1d13f807fc3/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Type and Number of Motor Vehicles Transferred",
+      "url": "/datasets/d_edd242b474a7d040de2cf3a227978054/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Total Annual New Registration of Goods Vehicles (GVs) by Make",
+      "url": "/datasets/d_4a239b531be8dfa9d21974d23b0c021d/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2004",
+      "enddate": "dec 2017",
+      "title": "Total Annual New Registration of Buses by Make",
+      "url": "/datasets/d_5b9e14629619d972b4d5e50a9f1f5254/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Age of Goods Vehicles",
+      "url": "/datasets/d_33777ba2cc9652ea1b85b9438480a3c1/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Annual Age Distribution of Bus",
+      "url": "/datasets/d_4a768e13732d4ae89a7b60377bcac4f0/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2006",
+      "enddate": "dec 2017",
+      "title": "Annual Motor Vehicle Inspection - Passing Rate of Motor Vehicles on First Inspection",
+      "url": "/datasets/d_8a3216bd5ae98a287f3cb297706e9d80/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 2013",
+      "enddate": "feb 2018",
+      "title": "Off Peak Cars - Total Population",
+      "url": "/datasets/d_232a18998e2569dfbcca3ee973494f5a/view",
+      "organization": "LTA"
+    },
+    {
+      "topic": "transport",
+      "startdate": "jan 1986",
+      "enddate": "jun 2019",
+      "title": "Total Air Cargo Loaded in Tonnes By Region",
+      "url": "/datasets/d_0b1264c397b3c2c000bda06d3438c27f/view",
+      "organization": "CAAS"
+    }
+  ]
+}

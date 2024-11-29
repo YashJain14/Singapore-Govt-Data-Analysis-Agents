@@ -1,0 +1,3209 @@
+{
+  "metadata": {
+    "topic": "social",
+    "count": 400,
+    "scraped_at": "2024-10-23T23:43:25.428385"
+  },
+  "datasets": [
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Drug Abusers Arrested (By Age Group)",
+      "url": "/datasets/d_9b3318cd3d13833e312104da05049c40/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Drug Abusers Arrested (By Sex)",
+      "url": "/datasets/d_44c6b6dabcde1025724cab86b7d1672e/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "apr 2019",
+      "enddate": "sep 2024",
+      "title": "Listing of Centres",
+      "url": "/datasets/d_696c994c50745b079b3684f0e90ffc53/view",
+      "organization": "ECDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "nov 2018",
+      "enddate": "sep 2024",
+      "title": "Listing of Centre Services",
+      "url": "/datasets/d_44cfe12f2858ae503a093dfc075a28be/view",
+      "organization": "ECDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "dec 2005",
+      "title": "Bankruptcy Act Notices 2005",
+      "url": "/datasets/d_f9f9eae8a69e3f2f415d82cd85c773f5/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1997",
+      "enddate": "may 2019",
+      "title": "Mobile Penetration Rate",
+      "url": "/datasets/d_5fb7ffda1ffd756151b1650d4c64363c/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2018",
+      "title": "Causes of Accidents by Severity of Injury Sustained",
+      "url": "/datasets/d_d085ce60a604f938aff6779ed08a106a/view",
+      "organization": "SPF"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2019",
+      "enddate": "sep 2024",
+      "title": "Listing of Centres Incidental Charge",
+      "url": "/datasets/d_253a7e348279bf0a87666a71f7ea2e67/view",
+      "organization": "ECDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2020",
+      "enddate": "sep 2024",
+      "title": "Listing of Centres Licence History",
+      "url": "/datasets/d_aea5df8dc9e1850857afd0e5e8e25795/view",
+      "organization": "ECDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jun 2016",
+      "enddate": "may 2017",
+      "title": "AED Locations",
+      "url": "/datasets/d_e8934d28896a1eceecfe86f42dd3c077/view",
+      "organization": "SCDF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2018",
+      "title": "Online Shoppers",
+      "url": "/datasets/d_f3497f7be32de3c4215eb24229a3c028/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1955",
+      "enddate": "jan 2020",
+      "title": "Parliamentary General Election Results by Candidate",
+      "url": "/datasets/d_581a30bee57fa7d8383d6bc94739ad00/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jul 2004",
+      "enddate": "oct 2017",
+      "title": "Mobile Phone Subscriptions By Subscription Type",
+      "url": "/datasets/d_486512294c2ff0f6b37d5b49d9ac185b/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2018",
+      "title": "Online Shoppers by Age Group",
+      "url": "/datasets/d_276031cfd1b2929bb795cdcedd54989e/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1997",
+      "enddate": "oct 2017",
+      "title": "Total Mobile Phone Subscriptions",
+      "url": "/datasets/d_c2b4d1a2c9bfc5d0df58dd339d8121a0/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2022",
+      "title": "Regular (at least 1x per week) Participation By Age Group",
+      "url": "/datasets/d_8aa2540e2abb980dabd1207fc6efc046/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1971",
+      "enddate": "jan 2022",
+      "title": "Crude Birth, Death & Natural Increase rates by Ethnic Group from 1971 Onwards",
+      "url": "/datasets/d_b1516a82d21dc594ad5a93cc341a234c/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2022",
+      "title": "Top Sports & Physical Activities – Overall",
+      "url": "/datasets/d_36ff9bbf1221c3d36ba23ca790ae65a5/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2015",
+      "title": "Usage of Traditional Devices for Media Activities",
+      "url": "/datasets/d_1a88e269bf1d629b93fb5cafa189f9fb/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "dec 2020",
+      "title": "Recidivism Rate",
+      "url": "/datasets/d_7f7de77c2e375288eb25690297c327ea/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Sport & Physical Activity Participation Level",
+      "url": "/datasets/d_3997ebe3f0f535e51833f51fe8b9c449/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Video Games Classification Database (2020 to 2022)",
+      "url": "/datasets/d_fb51c5304f64d01f5839ee7208f853ea/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "jan 2022",
+      "title": "Cause of death by age group",
+      "url": "/datasets/d_716c31ea00d7c05d43d4109d8b0db3bb/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Tenders 2000",
+      "url": "/datasets/d_6c240c105cd0fea41a3a076d58f85be4/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Advertisements 2000",
+      "url": "/datasets/d_9bdcfe8eebe3119597387b6e5804e8d4/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Inmates admitted to Drug Rehabilitation Centre (DRC) by Education Level",
+      "url": "/datasets/d_3ffbbbae4a59a8977e612112c92bf982/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2015",
+      "title": "Online Shoppers by Value of Purchase",
+      "url": "/datasets/d_79958154e6f9d9a30c5655ddd41d83c5/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "jan 2022",
+      "title": "Deaths and Death Rates by Cause",
+      "url": "/datasets/d_e2c79c60c046f9a2061328cc3f665688/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1997",
+      "enddate": "aug 2020",
+      "title": "Total Mobile Phone Subscriptions",
+      "url": "/datasets/d_8fa4828ceee7d00cce976470a934494c/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "aug 2008",
+      "enddate": "may 2019",
+      "title": "Residential Wired Broadband Subscriptions By Type, Monthly",
+      "url": "/datasets/d_6134ba26a0d95b93f832e7f141119187/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1955",
+      "enddate": "dec 2015",
+      "title": "List of Political Parties",
+      "url": "/datasets/d_ef163fd9ebc3c2f21032c29da3bd3f77/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2013",
+      "enddate": "jun 2016",
+      "title": "Fixed Broadband Plans and Prices",
+      "url": "/datasets/d_7a7f9510c00914869094fb466a2c9e04/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Inhalant Abusers Arrested (By Age Group)",
+      "url": "/datasets/d_06dec2e253224d72d528ddf39f57a548/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Film Classification Database (2020 to 2022)",
+      "url": "/datasets/d_ee0231c767e05c37f61e01923df2e461/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Regular (at least 1x per week) Participation By Race",
+      "url": "/datasets/d_82b974dc663f13493a8e0e0f51361a67/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "jan 2022",
+      "title": "Number of Passengers cleared at the checkpoints [Arrival and Departure]",
+      "url": "/datasets/d_e78db35440a41c0baff4e5f669532bd9/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2017",
+      "title": "MSF Youth Homes Recidivism Rate",
+      "url": "/datasets/d_fd1aabf9bc39d655a9931a641ae00109/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "MSF Youth Homes Admissions (By Age)",
+      "url": "/datasets/d_f5d25468a16b90fed40257ecad4b3a88/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Information on quantity of controlled drugs seized",
+      "url": "/datasets/d_548c4312b99409c9d152ac2f426828b5/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2018",
+      "title": "Qualified Driving Licence (QDL) Holders By Class Of Licence",
+      "url": "/datasets/d_ebfe66b91d6dc8efb2a6008647dc9a6e/view",
+      "organization": "SPF"
+    },
+    {
+      "topic": "social",
+      "startdate": "may 2018",
+      "enddate": "jan 2021",
+      "title": "Baby Bonus - Approved Institutions (AI)",
+      "url": "/datasets/d_2509dfdb3d6b87606fe909dd72fbb9fb/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "jan 2022",
+      "title": "Single Parent & Teenage Births by Ethnic Group from 2005 onwards",
+      "url": "/datasets/d_9df8d9f4545fa651b4be4614b4762f4c/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Top Sports & Physical Activities – 20 to 39 years old",
+      "url": "/datasets/d_202f96987050d470fbc1dfc51baad647/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Top Sports & Physical Activities – 13 to 19 years old",
+      "url": "/datasets/d_bb835593706c8bef193e8e964facd6d8/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jul 2004",
+      "enddate": "aug 2020",
+      "title": "Total Number of Mobile Subscriptions by Type",
+      "url": "/datasets/d_bab010d1b1379aba53e6cf7acfaff85b/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1955",
+      "enddate": "dec 2020",
+      "title": "Parliamentary General Election - Registered Electors, Rejected Votes and Spoilt Ballots",
+      "url": "/datasets/d_fdfb854fcb7428b29734d2e0c0674220/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Bankruptcy Act Notices 2022",
+      "url": "/datasets/d_ee3e6161c763448d0a9579a018dbf547/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2012",
+      "title": "Notices under other Acts 2012",
+      "url": "/datasets/d_87608371131be6aa6e10c969d3125621/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Top Sports & Physical Activities – 40 to 59 years old",
+      "url": "/datasets/d_8963788eef3a91d6dc473396ea7ea929/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2021",
+      "title": "MSF Youth Homes Admissions (By Case Type)",
+      "url": "/datasets/d_7b9e3a2f842a7b2d42f2c1b9d5672c90/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1999",
+      "enddate": "dec 2018",
+      "title": "Employed ICT Manpower",
+      "url": "/datasets/d_77fa870aa3afb10a1d133b20e9651b6e/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "jan 2022",
+      "title": "State Courts Caseload Figures, 2011 to 2022",
+      "url": "/datasets/d_afea2ada431ec25fbddc2e1981d2c8c2/view",
+      "organization": "STATECOURTS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Regular (at least 1x per week) Participation By Gender",
+      "url": "/datasets/d_deb78af871053c93b8b147d2e91e27e5/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Location of Speed Cameras in Singapore",
+      "url": "/datasets/d_983804de2bc016f53e44031d85d1ec8a/view",
+      "organization": "SPF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2015",
+      "title": "Number of Motor Accident Compensation Cases administered by the Public Trustee",
+      "url": "/datasets/d_9b09ee04bbbce9b10702abd048a5fb8a/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "MSF Youth Homes Completion Rate",
+      "url": "/datasets/d_09b867091210e891405f2e52c24ad71a/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Inhalant Abusers Arrested (By Ethnic Group)",
+      "url": "/datasets/d_cb0992ce83aa288920a7f927e04cc2d4/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1955",
+      "enddate": "dec 2020",
+      "title": "Parliamentary General Election Dates",
+      "url": "/datasets/d_00d89e5d100a612e36432d91493785bd/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Appointments 2000",
+      "url": "/datasets/d_45a462746da936d05a869a395ca22f2d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Yearly Enrolment of Inmates in Academic Programmes",
+      "url": "/datasets/d_e06e3afd67b720e9199702c2f44ad790/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "Children in Residential Care",
+      "url": "/datasets/d_ebf53a1e86be9057782426099a0c2b7b/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jul 2004",
+      "enddate": "mar 2019",
+      "title": "Mobile Data Usage",
+      "url": "/datasets/d_8bf1863458eefb925c88bda1d2d30ff9/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "dec 2017",
+      "title": "Infocomm Manpower by Discipline of Study",
+      "url": "/datasets/d_77669f45fea0f2dfde0ed984ad885a58/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Inhalant Abusers Arrested (By Status)",
+      "url": "/datasets/d_41ec44c6ad0613d2bbc7717589da30bb/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Inhalant Abusers Arrested (By Sex)",
+      "url": "/datasets/d_9ced8376868d18b9cd53a3a0a806d318/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "oct 2000",
+      "title": "Termination of Service 2000",
+      "url": "/datasets/d_493a246dfafdf4380d320a50d167d34c/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Academic Results of Inmates",
+      "url": "/datasets/d_6b571fb0d7bc131cd9e612d823e312ba/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Motivations to Participate in Sport / Physical Activity (2021)",
+      "url": "/datasets/d_eb25dc376346bc79afabe9803cfd9891/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Inmates under Employability Skills Training Programmes",
+      "url": "/datasets/d_020be791f1cd0ca61e749c43e5dde1a2/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC)",
+      "url": "/datasets/d_d44cd0cf3ef9f514847811eed6e2aed7/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2020",
+      "title": "Official capacity of adult prisons, penal institutions or correctional institutions",
+      "url": "/datasets/d_e4a6dd4f67e75f5c66dac0ba6c57f736/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2022",
+      "title": "Top Sports & Physical Activities – Males",
+      "url": "/datasets/d_b8eca5ac5d02cc48edd5ebb7a3b01b1b/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Judicial Executions",
+      "url": "/datasets/d_f4081559b7db4f792a395138a540db1d/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2020",
+      "title": "Remand Population by Age Group (2006-2020)",
+      "url": "/datasets/d_f8cf15f013db8a073982514a0eb95876/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Live-Births By Occupation Of Mother And Birth Order",
+      "url": "/datasets/d_cb058a2f7ee7aa5c6b1f0d8c7ef45f21/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Live-Births By Educational Qualification, Ethnic Group of Mother and Birth Order",
+      "url": "/datasets/d_36149d0682172bc5e7c93ad44b8ab418/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2020",
+      "title": "Convicted Penal Population by Age Group and Offence Group (2006-2020)",
+      "url": "/datasets/d_7c1a67a1c29b45015f2012e03ed068f3/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Remand Population",
+      "url": "/datasets/d_ab445d39f0ff5c38b6c7eac586db4b5c/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Barriers to Participation in Sport / Physical Activity (2021)",
+      "url": "/datasets/d_dfe8ada0639b2a892c48e82cf5cb39ae/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2021",
+      "title": "Inmates under Work Programmes",
+      "url": "/datasets/d_606eb23fb872a2363e01d86a978f687e/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC) by Education Level",
+      "url": "/datasets/d_949f02d8e5f54488a5d6a48a6d9f5e50/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Population by Age Group and Offence Group (2020 onwards)",
+      "url": "/datasets/d_59777f3591055755f3bfb7630735fbf4/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "jan 2022",
+      "title": "State Courts Court Dispute Resolution Caseload Figures, 2015 to 2022",
+      "url": "/datasets/d_111ef64ac94ff53a44f5e019b8ed9878/view",
+      "organization": "STATECOURTS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2017",
+      "title": "Juvenile Recidivism Rates",
+      "url": "/datasets/d_5e6e42447e2f1017483787b66678d6aa/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Deaths by Age, Ethnic Group and Gender",
+      "url": "/datasets/d_bca761dca17d3155db130b84a8c01a23/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Overall Staff Strength",
+      "url": "/datasets/d_906df66867223c65d5a4d23b3fa61299/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Job Retention of Ex-Offenders",
+      "url": "/datasets/d_165844f82e4fbc6ea841f1e1ceb7a826/view",
+      "organization": "SCORE"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2021",
+      "title": "Total amount of outstanding licensed moneylending loans",
+      "url": "/datasets/d_3d9a4486b047038d0bc68623d4b65e1b/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1984",
+      "enddate": "jan 2022",
+      "title": "Newborns by Gender from 1984 Onwards",
+      "url": "/datasets/d_796d4eacf201e5c745ed873e13fdc79d/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1993",
+      "enddate": "jan 2023",
+      "title": "Presidential Election Results",
+      "url": "/datasets/d_c7f1fb58083c1c44bb8418eb4d909fd5/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Arts Entertainment Classification Database (2020 to 2022)",
+      "url": "/datasets/d_0357d70f583189708514ca1d35772cc0/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2023",
+      "enddate": "dec 2023",
+      "title": "Advertisements 2023",
+      "url": "/datasets/d_c78740f1761cb3cc9952fa73a8c87f5a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Audited Reports 2022",
+      "url": "/datasets/d_bdebda125f18eda8e53176848dff8b5c/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Inmates admitted to Drug Rehabilitation Centre (DRC)",
+      "url": "/datasets/d_03a9f55160d2f00fc9457aa5360fba9d/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2020",
+      "title": "Convicted Penal Population by Age Group (2006-2020)",
+      "url": "/datasets/d_067f98c95cfbf567a54f74d25221e133/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Top Sports & Physical Activities – Indians",
+      "url": "/datasets/d_ac3377ce513d130581865f30939e8996/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Top Sports & Physical Activities – Malays",
+      "url": "/datasets/d_5e78a7c574073ef1aa8cfd5701a556fd/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2022",
+      "title": "Top Sports & Physical Activities – 60+ years old",
+      "url": "/datasets/d_83687c0e602bec2e26e4f2b0faedf526/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Remand Population by Age Group (2020 onwards)",
+      "url": "/datasets/d_cc2565be86830472c93c96c8382abae3/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Emplacement Number for Community Based Programmes (CBP)",
+      "url": "/datasets/d_69eef4f36e9ba329344557d83eb4a67c/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Remand Population by Gender",
+      "url": "/datasets/d_ee0930e9d3506bbb24fe6d635d1cb9e7/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Population by Education Level",
+      "url": "/datasets/d_c7821442f0c469beb967d89c4d933786/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2022",
+      "title": "Top Sports & Physical Activities – Females",
+      "url": "/datasets/d_279af3f41c0b240d3a6f05a0417fd58e/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jun 2016",
+      "enddate": "may 2017",
+      "title": "Locations of Bomb Shelters",
+      "url": "/datasets/d_2ce7b5981d9f989afdf1120cb1760d1f/view",
+      "organization": "SCDF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "jan 2022",
+      "title": "Number of Inward Containers cleared at the checkpoints from 2004 onwards",
+      "url": "/datasets/d_b096418d2b14feb73de0660070e5a664/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "jan 2022",
+      "title": "Deaths by Age Group, Marital Status and Gender",
+      "url": "/datasets/d_0dd27335ae73fd0021c6025a2683a9de/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2017",
+      "title": "Infocomm Manpower by Gender",
+      "url": "/datasets/d_542008ff5436edda9041983dd78e5ee9/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2014",
+      "enddate": "dec 2019",
+      "title": "Singapore’s Ranking in Infocomm",
+      "url": "/datasets/d_9da5fa8c0f6653e771fbd6945f176932/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2022",
+      "title": "Number of Illegal Immigrants Arrested from 2011 onwards",
+      "url": "/datasets/d_1dc58c8dc5ebd00aa4fcfa3c62ad162f/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Live-Births by Ethnic group, Age group of Mother and Child Gender",
+      "url": "/datasets/d_83117ac6795d782fed5f752fff8dc8b8/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "jan 2022",
+      "title": "Number of Harbourers of Immigration Offenders arrested from 2011 onwards",
+      "url": "/datasets/d_7f08577a6718ccec219f745037cc57a6/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "apr 2019",
+      "enddate": "jan 2020",
+      "title": "List of Registered Dealers",
+      "url": "/datasets/d_e643dd525fb927ee16f54f093c73b490/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "jan 2022",
+      "title": "Number of Employers of Immigration Offenders Arrested from 2011 Onwards",
+      "url": "/datasets/d_9bf42468a7faf33f64e6d18c549e7f13/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Completion Rates for Community Based Programmes (CBP)",
+      "url": "/datasets/d_0796ea8c6c08a362ac6b5ddf065a0104/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Admission by Education Level",
+      "url": "/datasets/d_a166bc31ce8cb823b22467fb0798dff7/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Population by Gender",
+      "url": "/datasets/d_dfdc5edfb76b41a0f909b0a375b27c4e/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Staff Strength by Age Group and Executive Level",
+      "url": "/datasets/d_b6c936cf4666cb00b5f4cba57eeef713/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Employment Assistance for Offenders",
+      "url": "/datasets/d_a63113287328651f670a5a29bcae933c/view",
+      "organization": "SCORE"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Public Service Inflow by Age Profile",
+      "url": "/datasets/d_b1c25988c2cea189f27fd0e824716dae/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2015",
+      "title": "Source of Cases Registered at the Community Mediation Centre",
+      "url": "/datasets/d_9439ea87f910688c8218c361df531365/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Gender of Applicants",
+      "url": "/datasets/d_45e3404079cd3f67543f4f29e468a54e/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Mothers by Age Group and Type of Birth",
+      "url": "/datasets/d_9904ead960a059fa235120dd2de114d8/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2015",
+      "title": "Registered Cases at the Community Mediation Centre",
+      "url": "/datasets/d_64a479fdc6e9487cd70838f769273b59/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2017",
+      "title": "Infocomm Manpower by Highest Qualification Attained",
+      "url": "/datasets/d_3697d4e9bd316fdb24dd386fae885451/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2015",
+      "title": "Weekly Time Spent on Media Activities",
+      "url": "/datasets/d_73b33e1ddffcfad04b8ca4d3ded59440/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2018",
+      "title": "Computer ownership by housing type",
+      "url": "/datasets/d_f078b7a2e3b220af4d3bfe676c4e7e69/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2016",
+      "title": "Web Presence of Enterprises by Employment Size",
+      "url": "/datasets/d_f836f9bce300b89ebc7685ef9df1b822/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Live-Births By Ethnic Group, Age Group of Mother and Birth Order",
+      "url": "/datasets/d_aa2bc6e6570aa886f263ae7397e6bd1a/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1993",
+      "enddate": "dec 2011",
+      "title": "Presidential Election Dates",
+      "url": "/datasets/d_417c05185b5b72b82f69373a088da1ce/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1993",
+      "enddate": "jan 2023",
+      "title": "Presidential Election - Registered Electors, Rejected Votes and Spoilt Ballots",
+      "url": "/datasets/d_f6ac3c09e5eaf6a1d33fda03f397e619/view",
+      "organization": "ELD"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2020",
+      "url": "/datasets/d_78de412d44c42d676b73eac520a8384a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "nov 2022",
+      "title": "Bills Supplement 2022",
+      "url": "/datasets/d_7e3a92c2d1e2e8221f5f44b059d9168f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2021",
+      "url": "/datasets/d_4fcdfda665551b7874889526264cc7ff/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Inmates released from Drug Rehabilitation Centre (DRC) by Gender",
+      "url": "/datasets/d_76b78d3f0b50ea8ba6c8c482e516d3b2/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Skills Training for Inmates",
+      "url": "/datasets/d_26356310d6ab20937b757c5e8f7b82b5/view",
+      "organization": "SCORE"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2018",
+      "title": "Number of staff employed in adult prisons, penal institutions or correctional institutions",
+      "url": "/datasets/d_9cae8b18253247283f9e89ef1c541225/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Admission by Offence Group",
+      "url": "/datasets/d_e618ac4c45fce4110df180ba905215f7/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Inmates released from Drug Rehabilitation Centre (DRC)",
+      "url": "/datasets/d_28b8cd2a15fd88f6c9be1ab5d5b7c6c7/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Population by Offence Group",
+      "url": "/datasets/d_4da5f27c66f2967763aa5729e3d373b2/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Number of National and Foreign Citizens Held",
+      "url": "/datasets/d_32e3f5d1425b41da395759c6dc1928df/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Assault Rate",
+      "url": "/datasets/d_2a5debe2674db2707cec7bfd022d770c/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2021",
+      "title": "Number of loans granted by licensed moneylenders",
+      "url": "/datasets/d_a2d1d9b14b601f8b074370425966e8f7/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Live-Births (Single & Twins Births) by Period of Gestation, Birth Weight and Child Gender",
+      "url": "/datasets/d_88039c470472a9a79da2fc662c33c48c/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2019",
+      "enddate": "feb 2023",
+      "title": "Number of residents admitted into Transitional Shelters by type of cases",
+      "url": "/datasets/d_1c25a8e53f8092448c98cb686739db30/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2015",
+      "title": "Total amount of pawnbroking loans as a proportion of the consumer credit market",
+      "url": "/datasets/d_ca4094a1cc49ba6dd6840a0b96e1ab1d/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Staff Strength by Highest Educational Qualification and Executive Level",
+      "url": "/datasets/d_912658786c50256c5e7e018cb4c007d9/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2015",
+      "title": "Relationship of Parties in Cases Registered at the Community Mediation Centre",
+      "url": "/datasets/d_896523571502b305e313b249f555c244/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Still-Births by Birth Weight, Age Group of Mother, Period of Gestation and Child Gender",
+      "url": "/datasets/d_efb56da0b05337141a84a5500a263c5e/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "dec 2014",
+      "title": "No. of PSC Scholarships Awarded - By Scholarship Scheme",
+      "url": "/datasets/d_b4aeb6f39b50ebbe499bb4c3894a2a06/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "jan 2022",
+      "title": "Grassroots Organisations",
+      "url": "/datasets/d_a68b842d04a6a2b5147ec8618d382c00/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Live-Births By Ethnic Group of Parent",
+      "url": "/datasets/d_7b998114710b962723dda930e33f53a4/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "State Courts Referrals to MSF for Pre-Sentence Reports (By Age and Year)",
+      "url": "/datasets/d_f0ea303918b4a412cbf1abea8c52a214/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2015",
+      "title": "Total outstanding moneylender loans as a proportion of the consumer credit market",
+      "url": "/datasets/d_f786cbcd6eb0b1e3c1873d26c0cf0f2c/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2021",
+      "title": "Total licensed moneylending loan quantum",
+      "url": "/datasets/d_4cf0e6b02dd7dbc8ba2a0beca9d81662/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "dec 2017",
+      "title": "Infocomm Manpower by Residential Status",
+      "url": "/datasets/d_15d5913bcb8b59b14f09ce90a64b2047/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2018",
+      "title": "Individual Internet Usage",
+      "url": "/datasets/d_fcc02bc884c54a09e8665443bff2f4c2/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2015",
+      "title": "Usage of Laptops/ PCs for Media Activities",
+      "url": "/datasets/d_1b2f33a6d831f33138716ac335cbe90d/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2020",
+      "title": "Top 10 Countries in Infocomm Rankings",
+      "url": "/datasets/d_aafdcbb3739798c3506d5eb49b6d6335/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2015",
+      "title": "Weekly Time Spent on Local Content",
+      "url": "/datasets/d_03b9420e498fb028f17cc84094aaabdd/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2015",
+      "title": "Usage of Mobile Devices for Media Activities",
+      "url": "/datasets/d_185071db94c8146a103684ce7614a454/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "jul 2015",
+      "title": "Bills Supplement 2015",
+      "url": "/datasets/d_bd11a49609425aa252fe4c3e3067b6c6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "jan 2022",
+      "title": "State Courts Clearance Rate Figures, 2016 to 2022",
+      "url": "/datasets/d_8f9b88e7bfdd1725e125f0099fdede1e/view",
+      "organization": "STATECOURTS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Population by Gender and Offence Group",
+      "url": "/datasets/d_fb22d4b01dd55db67c6b73ccd8a198e8/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2018",
+      "title": "Incarceration Rate",
+      "url": "/datasets/d_f6b3b3a04f28e518bc244682cfcace1a/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC) by Age Group (2020 onwards)",
+      "url": "/datasets/d_cbf77c88f515c51af8ff3a75edf8085c/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC) by Gender",
+      "url": "/datasets/d_1d6394f2721fedcf0277e054c34e22be/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Top Sports & Physical Activities – Others",
+      "url": "/datasets/d_b33b86dd8e73a5d3951e671803577b71/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2022",
+      "title": "Top Sports & Physical Activities – Chinese",
+      "url": "/datasets/d_961bfc0ba42c70a4c2e4586b8b3c4ec0/view",
+      "organization": "SPORT"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Remand Population by Education Level",
+      "url": "/datasets/d_bd8146bb208b9beb22b9bd62c61fa0e1/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Population by Age Group (2020 onwards)",
+      "url": "/datasets/d_8018641562508d143eba69c0f0b7cf15/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Releases by Gender",
+      "url": "/datasets/d_1ccc58aff24ba10155c18594187d0072/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Inmates admitted to Drug Rehabilitation Centre (DRC) by Gender",
+      "url": "/datasets/d_bdd625091e115bd9c8d8d3128147a00b/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2018",
+      "title": "Inmate to Prison Staff Ratio",
+      "url": "/datasets/d_888311df97e3d7d1402435bf4a57daf8/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2021",
+      "title": "Number of licensed moneylending borrowers",
+      "url": "/datasets/d_ba12eda336e01d5b810286d282f30736/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2022",
+      "title": "Escape Rate",
+      "url": "/datasets/d_e20a928e2bc3275da7973ef08262617f/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "Deaths By Cause And Type of Certification",
+      "url": "/datasets/d_f9e1ec367036b43d97eec96cbcee7827/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2015",
+      "title": "Outcome of Cases Registered at the Community Mediation Centre",
+      "url": "/datasets/d_78b6f3b7151f01bab5740ddfe2f1b5f4/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2021",
+      "title": "Adult Protection Investigations by Types of Abuse",
+      "url": "/datasets/d_fa1671fbb2caf85d1c262cbdd5cba778/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Live-Births By Birth Weight, Age Group of Mother and Child Gender",
+      "url": "/datasets/d_deb91bee190b87e7d3345d341f47d6a5/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Staff Strength by Gender",
+      "url": "/datasets/d_8b7ca60d610db92a752565f153af4b6a/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2008",
+      "enddate": "apr 2024",
+      "title": "Zakat Nisab Rates",
+      "url": "/datasets/d_cd3256f3713239aceedf395b9a1627a5/view",
+      "organization": "MUIS"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Public Service Retirement & Re-employment Profile",
+      "url": "/datasets/d_9f7941e9ac89528b15473433a0d0a2f6/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "Probation Orders (By Gender)",
+      "url": "/datasets/d_8df1be0a69cbf13f1b0b204341918d86/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Age of New Applicants",
+      "url": "/datasets/d_3dba1c8af6ab637e94b40ef3ea87590c/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Deputies by Gender",
+      "url": "/datasets/d_ebbb4d8653fbfad054e2db8c32165df1/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2014",
+      "enddate": "dec 2015",
+      "title": "Daily time spent on media activities",
+      "url": "/datasets/d_5ead501e7ac28f12c1655499bfd4b223/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "jun 2015",
+      "title": "Postal Network by Type",
+      "url": "/datasets/d_e4ca0274e0cf03e73f6c5babba0c9c4e/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2018",
+      "title": "Individual Internet Usage by Age",
+      "url": "/datasets/d_5bdc3fbb49cfdf6d4ea7d826cc88bc84/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2016",
+      "title": "Broadband Usage Amongst Enterprises by Employment Size",
+      "url": "/datasets/d_29d9931cd926c398728a0654537c5d6e/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Still-Births by Ethnic Group of Mother and Child Gender",
+      "url": "/datasets/d_0557b226498bc20f4999053e4868ac08/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2021",
+      "title": "Number of Persons Convicted for Marriage of Convenience offences from 2013 onwards",
+      "url": "/datasets/d_7a97e81bc6f4f750450b12ad3c12b604/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "jan 2022",
+      "title": "Number of pawnbroking licenses",
+      "url": "/datasets/d_dc5ff5746a3fc254d3b44be97b8aadee/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2014",
+      "enddate": "dec 2014",
+      "title": "Subsidiary Legislation Supplement 2014",
+      "url": "/datasets/d_05acbe7348ad2502a25faea4c1fe9fb4/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2011",
+      "title": "Subsidiary Legislation Supplement 2011",
+      "url": "/datasets/d_e9c720c923c127712fc3f5f808b4c467/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "sep 1998",
+      "enddate": "dec 1998",
+      "title": "Notices under other Acts 1998",
+      "url": "/datasets/d_cee45db9c4af31aae3aa8c9fe74ae9a9/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1999",
+      "enddate": "dec 1999",
+      "title": "Companies Act Notices 1999",
+      "url": "/datasets/d_7a6bf3823f56f6466d9325e7d453668a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2002",
+      "title": "Others 2002",
+      "url": "/datasets/d_e37de25ddc709ecad3b07db52d4da06e/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Drug Abusers Arrested (By Main Drug Abused)",
+      "url": "/datasets/d_63ddff57dda5ad302be6ae35a266af75/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revocation 2016",
+      "url": "/datasets/d_627d751832d87a738d1682643c3b350f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2011",
+      "url": "/datasets/d_c58bca6d18d7ced6d4c243ce20142563/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2018",
+      "url": "/datasets/d_92483b1af389fdbe0d40a45bcff8ae4a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2009",
+      "enddate": "dec 2009",
+      "title": "Dismissals 2009",
+      "url": "/datasets/d_2b1cb35058ea082cead66430461efcc6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Audited Reports 2019",
+      "url": "/datasets/d_e76f44c32574a99a2cbbf0d4e3d08106/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2016",
+      "url": "/datasets/d_d6cc29144eb82018b6ea8bcd94d82f22/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2022",
+      "url": "/datasets/d_e97b4cfee804be394eb2c41988e06f7b/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "PA Course Participation (2021 and After)",
+      "url": "/datasets/d_ad1036159bf22ebfc6d1425175701ea7/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2011",
+      "title": "Notices under other Acts 2011",
+      "url": "/datasets/d_c6e5180d9b700124cd5200cabd440467/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2009",
+      "url": "/datasets/d_44e8ed49f8f97e63f98037366643760f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "sep 1998",
+      "enddate": "nov 1998",
+      "title": "Notices under the Constitution 1998",
+      "url": "/datasets/d_e5fe4e229818f423aba228114de63601/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2002",
+      "title": "Notices under other Acts 2002",
+      "url": "/datasets/d_3363953ef2e20892ed4623c5d168b350/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revocation 2002",
+      "url": "/datasets/d_f41b1abb67a8ebe4fc01bcca258bb975/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "sep 2004",
+      "title": "Vacation of Service 2004",
+      "url": "/datasets/d_b42eb01befa8312cd8ce7e0185452af4/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC) by Age Group (2020 onwards)",
+      "url": "/datasets/d_65015e4fcdf3f9145e9738ba473b3526/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC) by Gender",
+      "url": "/datasets/d_f0c95c5af0079df7ffdadcde1ffac1d6/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2020",
+      "title": "Inmates admitted to Drug Rehabilitation Centre (DRC) by Age Group (2006-2020)",
+      "url": "/datasets/d_e9461aa3172219cf7bfdf2ce0d7da954/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Convicted Penal Release",
+      "url": "/datasets/d_9cc44fc426e9b3cae701efc934cc8217/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Deaths by Place of Occurrence and Ethnic Group",
+      "url": "/datasets/d_72d68941145e7092a0bd87afb2379242/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Deaths By Age Group, Occupation and Sex",
+      "url": "/datasets/d_d8977f09d6307320a8099d08c2c35101/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Live-Births By Nationality of Father and Mother",
+      "url": "/datasets/d_a4738ec298639102f2e9cc17afd5af7c/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1951",
+      "enddate": "dec 2015",
+      "title": "Bankruptcy Discharges by Bankruptcy Number",
+      "url": "/datasets/d_e2c4fb9c8350ad15ab838aaf3ed24069/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "apr 1958",
+      "enddate": "mar 2016",
+      "title": "Number of registered cases at the Legal Aid Bureau",
+      "url": "/datasets/d_ccbc0a307af9a00dcbde8a0b2a613995/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2021",
+      "title": "Streetwise Programme New Cases (By Age at Point of Referral)",
+      "url": "/datasets/d_b77b471e441b08d59af6b4b54e8ebf8d/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "jan 2022",
+      "title": "Number of Inward Consignment (non-containerised) cleared at the checkpoints from 2004",
+      "url": "/datasets/d_372819f129dffdf93e8f93639baa77ad/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1971",
+      "enddate": "jan 2022",
+      "title": "Infant Deaths by Ethnic Group from 1971 onwards",
+      "url": "/datasets/d_f1d48318a55053833d9558cf215ffa39/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2017",
+      "enddate": "jan 2020",
+      "title": "PA Interest Groups (2017 - 2020)",
+      "url": "/datasets/d_06000097f04550aeb7489dac3cfa4336/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "jan 2022",
+      "title": "Number of Parcels cleared at the Parcel Post Centre",
+      "url": "/datasets/d_6a548606cf9132cb0b68463e0b8fa6a3/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2017",
+      "title": "Yellow Ribbon Fund Donations",
+      "url": "/datasets/d_c585459cc1b77fce041796325bf1bb0b/view",
+      "organization": "SCORE"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2021",
+      "title": "Family Guidance Orders Applications by Year and Gender",
+      "url": "/datasets/d_0c80615e433414826f3ae782bfd0dd3f/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2014",
+      "enddate": "jan 2016",
+      "title": "PA Courses (2014 - 2016)",
+      "url": "/datasets/d_934faec1d01b04dcd880d9f1a4344fc7/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jun 2022",
+      "enddate": "jul 2023",
+      "title": "e-Services for CCC+ Website",
+      "url": "/datasets/d_4d2c99ea159f1f6dd67beb58bf9cbe8d/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2015",
+      "title": "Number of Enforcement by Type, Annual",
+      "url": "/datasets/d_6bba2359d86f90dbf5ba4d7bb55eb0c7/view",
+      "organization": "SCDF"
+    },
+    {
+      "topic": "social",
+      "startdate": "dec 2022",
+      "enddate": "feb 2024",
+      "title": "IPC List UAT",
+      "url": "/datasets/d_7249aa8080c2e3211fd1c5811e507bff/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "Probation Orders (By Age)",
+      "url": "/datasets/d_f99a27af1cb132cd5e66818493ef9ba1/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "Probation Orders (By Grade)",
+      "url": "/datasets/d_2f985dcf92d17e700245e3e63c2c2fb6/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "dec 2021",
+      "title": "Probation Non-Completion (By Year and Reason)",
+      "url": "/datasets/d_eb4b14c6ca4d92c42949fee72671c3a4/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "State Courts Referrals to MSF for Pre-Sentencing Reports (By Gender and Year)",
+      "url": "/datasets/d_cec6fa7b9b5c360531f70c8fa8eb1a02/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Number of LPAs Registered",
+      "url": "/datasets/d_3cba033c78d0e491fcebe2069de50701/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Number of deputy reports received by OPG",
+      "url": "/datasets/d_e66a99d9a457360fd6a95de5a7ccf1ed/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Deputies by Age",
+      "url": "/datasets/d_bc5b61d5165e43bcf38e22c9e8212b3f/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "jan 2022",
+      "title": "Number of Contraband cases detected from 2011 onwards",
+      "url": "/datasets/d_87bcf27b745ae45fa8a5876f4d0ca2c5/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "feb 1933",
+      "enddate": "dec 2015",
+      "title": "Bankruptcy Orders Made by Bankruptcy Number",
+      "url": "/datasets/d_316490834716a16a6bb8764662e0b856/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2016",
+      "title": "Computer Usage Amongst Enterprises by Employment Size",
+      "url": "/datasets/d_a152023f1ada3b0d8abcceec57fa2e9a/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2017",
+      "title": "Number of Infocomm Jobs (Employed and Vacancies)",
+      "url": "/datasets/d_b0a1c0e664bb6749fbcb161eb09e372a/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2017",
+      "title": "Infocomm Industry Revenue",
+      "url": "/datasets/d_3c91127f14efb87ed978f326342d8f93/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "mar 2019",
+      "title": "Residential Wired Broadband Subscriptions By Speed, Quarterly",
+      "url": "/datasets/d_c9239b2508fec876996dd4a9989f679b/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2017",
+      "title": "Export Revenue Destinations by Region",
+      "url": "/datasets/d_3327d2bef55e24c8c84e1c1c4a992820/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1971",
+      "enddate": "jan 2022",
+      "title": "Neonatal, Perinatal and Maternal Vital Statistics from 1971 onwards",
+      "url": "/datasets/d_e4ce2fa3be49ca007ef72fbcefb997ef/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Live-Births by Ethnic Group of Mother and Attendant at Birth",
+      "url": "/datasets/d_decb56d878cb26e964509b26fc90b148/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Live-Births By Ethnic Group Of Father And Sex Of Child",
+      "url": "/datasets/d_50f55922b78f0a9eb7ce877e8604a5c0/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "jan 2022",
+      "title": "PA Interest Groups (2021 and After)",
+      "url": "/datasets/d_99e4b640badd48ab624eb6bffe2a9f0e/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2008",
+      "url": "/datasets/d_9e543e1387b640498fb67bb7257df801/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2007",
+      "enddate": "nov 2007",
+      "title": "Corrigendum 2007",
+      "url": "/datasets/d_939f226627e4b24384a3b3e37adeb39d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "feb 2021",
+      "enddate": "dec 2021",
+      "title": "Dismissals 2021",
+      "url": "/datasets/d_9608c372e20d106ca2516ac5fdf58dee/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "Dismissals 2020",
+      "url": "/datasets/d_35f8a41016e745c6abe787ceec662686/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2014",
+      "enddate": "dec 2014",
+      "title": "Notices under the Constitution 2014",
+      "url": "/datasets/d_e26e2efc2dddd6ba5977a1b4b9bc6670/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "Cessation of Service 2018",
+      "url": "/datasets/d_e062bf743443f6502a18d5eb89cee604/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revocation 2017",
+      "url": "/datasets/d_bfb6cfc11727707d3b3c4bd38fb02b1c/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2014",
+      "url": "/datasets/d_43586c6c71023c2dbc5d48016bcf0e9c/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2010",
+      "enddate": "nov 2010",
+      "title": "Bills Supplement 2010",
+      "url": "/datasets/d_774bce2a43aa86a980172f9eecaa8c39/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "feb 2000",
+      "enddate": "dec 2000",
+      "title": "Acts Supplement 2000",
+      "url": "/datasets/d_532fa9b7a0babfe192c7a68f1f19d9be/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1999",
+      "enddate": "oct 1999",
+      "title": "Bills Supplement 1999",
+      "url": "/datasets/d_473c39c3a88436e81b768b98fda2d331/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2009",
+      "enddate": "dec 2009",
+      "title": "Advertisements 2009",
+      "url": "/datasets/d_8f02a0a1eedbf944612ee1a95f00f6e5/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Treaties Supplement 2022",
+      "url": "/datasets/d_a177699c07de68b51f30861dada273ad/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2015",
+      "enddate": "oct 2015",
+      "title": "Government Gazette Supplement 2015",
+      "url": "/datasets/d_6beba32947f18fc9257318f2a38332b0/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2008",
+      "enddate": "dec 2008",
+      "title": "Notices under the Constitution 2008",
+      "url": "/datasets/d_8416b62d69780019aacb5bdc93d4e9ab/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Drug Abusers Arrested (By Status)",
+      "url": "/datasets/d_5a33c19e6604898c5b22979116a56096/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Audited Reports 2016",
+      "url": "/datasets/d_91c5054d45ada2e56df1ada30680439b/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2002",
+      "title": "Bankruptcy Act Notices 2002",
+      "url": "/datasets/d_407310e89a4795c51d0b2a586ec26ea7/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Audited Reports 2000",
+      "url": "/datasets/d_c7c659cc02e52c2b74b42a2211c0a493/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Audited Reports 2020",
+      "url": "/datasets/d_51449c18af42b79a940c116286bcb11f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Leave 2022",
+      "url": "/datasets/d_4dfc92d9b0cd04f7943b5809da7127d0/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Government Gazette Supplement 1998",
+      "url": "/datasets/d_7b1d18c610940b2098349eac9f7561a3/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "Notices under the Constitution 2021",
+      "url": "/datasets/d_3ed8c448710b42caca5f212664c3d069/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "Bankruptcy Act Notices 2021",
+      "url": "/datasets/d_50bca1eb0ea4f37921c3530feea745d2/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2022",
+      "url": "/datasets/d_1991ded85fdb6beb34998750f6d642be/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Audited Reports 1999",
+      "url": "/datasets/d_696e797cf3b481bfdb8dd1869b209efa/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "jan 2023",
+      "title": "Data on Drug Abusers Arrested (By Ethnic Group)",
+      "url": "/datasets/d_0e3352ebb178b555f5bd0ed97c20dd8c/view",
+      "organization": "CNB"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2007",
+      "title": "Notices under other Acts 2007",
+      "url": "/datasets/d_8ca744ab2e667482c948f1dd8b40a293/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "feb 2001",
+      "title": "Termination of Service 2001",
+      "url": "/datasets/d_ec488ec015c438f476c0a545337bedde/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2014",
+      "url": "/datasets/d_505d9a9efa2b5905e4ddfa0f8da63cb6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2015",
+      "url": "/datasets/d_ce808e1c53c4a0603e598ebe394916c6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Audited Reports 2017",
+      "url": "/datasets/d_7990c4f1c798c7802bcc74bd6ad4220f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2017",
+      "enddate": "jun 2017",
+      "title": "Termination of Service 2017",
+      "url": "/datasets/d_3312e0a856c4eeb4831b54e689b342a5/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "apr 2006",
+      "enddate": "dec 2006",
+      "title": "Vacation of Service 2006",
+      "url": "/datasets/d_901222c9ec16b9d62edfc1214b696201/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revocation 2006",
+      "url": "/datasets/d_def50defc5a08e70eeb02447858586e1/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "dec 2005",
+      "title": "Notices under other Acts 2005",
+      "url": "/datasets/d_efd85683cb807a05b2fa339bca61dc8f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "dec 2005",
+      "title": "Appointments 2005",
+      "url": "/datasets/d_a57be9bbf73367abd481559bb1504a76/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "nov 2006",
+      "title": "Bills Supplement 2006",
+      "url": "/datasets/d_fb17d764c4c8053c76119f61dd6ce729/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "oct 2020",
+      "title": "Companies Act Notices 2020",
+      "url": "/datasets/d_55446fe7c63c862f2a32b8d0afd19ec5/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "nov 2010",
+      "title": "Government Gazette Supplement 2010",
+      "url": "/datasets/d_5fe474ceb7f2b7142bcd91da1f25e9d3/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2013",
+      "title": "Dismissals 2013",
+      "url": "/datasets/d_c7ce0a3eceefc96bbe4f8025eb6db6e2/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "dec 2004",
+      "title": "Notices under other Acts 2004",
+      "url": "/datasets/d_bc14e7f8ed4ffe4ab3fbce3140f223c3/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2008",
+      "enddate": "dec 2008",
+      "title": "Audited Reports 2008",
+      "url": "/datasets/d_d29cd7bc1ed209ff378ea226192efdf4/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "dec 2004",
+      "title": "Advertisements 2004",
+      "url": "/datasets/d_8f10d6913e6183acda2ac84ce214f0c3/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2021",
+      "url": "/datasets/d_609970e647dc7821d02f21a75c01d1c1/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2017",
+      "url": "/datasets/d_1f710e256e6a7434cfddd09304447b20/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2014",
+      "enddate": "nov 2014",
+      "title": "Corrigendum 2014",
+      "url": "/datasets/d_20664cabd5d7b923bdc70e52dc006a90/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2017",
+      "enddate": "jan 2023",
+      "title": "Family Justice Courts Personal Protection Order Statistics",
+      "url": "/datasets/d_5f099776e231882b08832cf226928a87/view",
+      "organization": "STATECOURTS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Population of Inmates in Drug Rehabilitation Centre (DRC)",
+      "url": "/datasets/d_8a82ad63adcffc6610f997c178d4a8c3/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2022",
+      "title": "Inmates admitted to Drug Rehabilitation Centre (DRC) by Gender",
+      "url": "/datasets/d_20ec1aef68ae8f3510013752a33e7a89/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2020",
+      "title": "Inmates admitted to Drug Rehabilitation Centre (DRC) by Age Group (2006-2020)",
+      "url": "/datasets/d_5cab13e29d1d5752984808f14b707953/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2020",
+      "title": "Convicted Penal Admission by Age Group (2006-2020)",
+      "url": "/datasets/d_58e81232c1f239b8328220575eba3f66/view",
+      "organization": "SPS"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2018",
+      "title": "Total Number Of Persons Holding Qualified Driving Licence",
+      "url": "/datasets/d_c043f1858d5fc5a1930cdda165590a33/view",
+      "organization": "SPF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "jan 2022",
+      "title": "Total value of pawnbroking loans granted",
+      "url": "/datasets/d_50062b19eb6a2137964646f39c3b9b8f/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2021",
+      "title": "Number of places of licensed moneylending businesses",
+      "url": "/datasets/d_bfceda65224153ba1a3c7b516ecff0dc/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "Guidance Programme New Cases (By Gender)",
+      "url": "/datasets/d_9fe8e6ca9d8936e197c54e45ea248d83/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Number of compulsory winding up cases",
+      "url": "/datasets/d_5fa01efe9171c5b300f3c44c07abb3b2/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "jan 2022",
+      "title": "Total amount/value of outstanding pawnbroking loans",
+      "url": "/datasets/d_23973ebf68e41a63aa4da7be0c156210/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Staff Strength by Tenure",
+      "url": "/datasets/d_f2fe439c65973019edcb4f79b9644eed/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Staff Strength by Length of Service and Executive Level",
+      "url": "/datasets/d_c0e866cefda15af66207b089bb5132c6/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "apr 2001",
+      "enddate": "mar 2016",
+      "title": "Number of active Assigned Solicitors",
+      "url": "/datasets/d_c801c29b6fdaadb1588216a6931f7e30/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "aug 2021",
+      "enddate": "aug 2022",
+      "title": "eServices for CCC+ Website - 110821",
+      "url": "/datasets/d_a0462e66bb74c78bee815c732cb42493/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2017",
+      "enddate": "jan 2020",
+      "title": "PA Courses (2017 - 2020)",
+      "url": "/datasets/d_80ece7b4cf25e843592ef0431f96f6e2/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "nov 2022",
+      "enddate": "nov 2024",
+      "title": "eServices for CCC+ Website - 110822",
+      "url": "/datasets/d_2883bb98dbc092e08d3f905982e491fd/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "aug 2021",
+      "enddate": "jun 2023",
+      "title": "eServices for CCC+ Website - 210622",
+      "url": "/datasets/d_c186a850bbbad2f4853ca97a6f7c5dcf/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Public Service Outflow by Length of Service",
+      "url": "/datasets/d_39c64f80b8067fb32ea51e0a939ca2a7/view",
+      "organization": "PSD"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2017",
+      "enddate": "jan 2020",
+      "title": "PA Course Participation (2017 - 2020)",
+      "url": "/datasets/d_7f2c2c8e09242be1493e9a6db511bd50/view",
+      "organization": "PA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2021",
+      "title": "Youth Court Referrals to MSF for Pre-Sentence Reports (By Age and Year)",
+      "url": "/datasets/d_319771d0f1d4f08735438875a9362a04/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2014",
+      "title": "New Beyond Parental Control Cases, Annual",
+      "url": "/datasets/d_ea93db0c7d864af98fb6387813a8fef2/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Donors by Gender",
+      "url": "/datasets/d_584bfc838d43d3fa900b23a6b25452a6/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2008",
+      "enddate": "dec 2017",
+      "title": "Probation Recidivism Rate",
+      "url": "/datasets/d_ae73663615cb0d10acebb5aa563fdf90/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2021",
+      "title": "Living Arrangements of New Applicants",
+      "url": "/datasets/d_2194c996aec35fe9e9289942ea88343e/view",
+      "organization": "MSF"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1971",
+      "enddate": "jan 2022",
+      "title": "Live-Births, Deaths & Natural Increase by Ethnic Group from 1971 Onwards",
+      "url": "/datasets/d_16950a6230af2c42bc746a9fb85518dc/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2015",
+      "title": "Number of Petitions to Wind Up a Company",
+      "url": "/datasets/d_4bb65fda45b8b135ca1cd63e80b192a1/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1933",
+      "enddate": "dec 2015",
+      "title": "Bankruptcy Petitions/Applications  by Bankruptcy Number",
+      "url": "/datasets/d_c2bd8cbf79582869bda11f69cae6c059/view",
+      "organization": "MLAW"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2008",
+      "enddate": "dec 2018",
+      "title": "Internet Connection at Home by Type",
+      "url": "/datasets/d_817549c15a32246c6d71dce7111185cb/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2017",
+      "title": "Revenue of Infocomm Industry by Market Segment",
+      "url": "/datasets/d_c819e013e5cea669f71872b6cb5fddfe/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2017",
+      "title": "Export Revenue of Infocomm Industry by Market Segment",
+      "url": "/datasets/d_7599890336f37c63176bc96b2784354f/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2014",
+      "title": "Computer Access at Home by Housing Type",
+      "url": "/datasets/d_9f29a57db63c7a915e208f533f639aaa/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "sep 2011",
+      "enddate": "mar 2016",
+      "title": "Working End-user connections delivered by type of property",
+      "url": "/datasets/d_1de494582daed4f45288e97d5c0204ed/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2005",
+      "enddate": "dec 2018",
+      "title": "Individual Internet Access",
+      "url": "/datasets/d_837a46a9bc455698672f6070993bb342/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "apr 2013",
+      "enddate": "dec 2016",
+      "title": "Call Success Rate 2007 - 2008",
+      "url": "/datasets/d_7d1bacb568337e7a20ded111e2c887b9/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jul 2008",
+      "enddate": "mar 2019",
+      "title": "Total SMS Messages sent and received over mobile network",
+      "url": "/datasets/d_6a4dd5b11b8b6e10c3e11e7cf9a722ec/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2018",
+      "title": "Individual Computer Access",
+      "url": "/datasets/d_a6aad5c7e5f8f85301def2c3c8f0c7de/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "dec 2016",
+      "title": "Internet Usage Amongst Enterprises by Employment Size",
+      "url": "/datasets/d_57d7f0e03c28d6bcc7c366b01d11355f/view",
+      "organization": "IMDA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "jan 2022",
+      "title": "Still-Births by Attendant at Birth, Place of Occurrence, Ethnic Group of Mother and Sex of",
+      "url": "/datasets/d_3e70f7cf117053bacf6c59df2b1ca663/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2022",
+      "title": "Live-Births by Ethnic Group of Mother and Place of Occurrence",
+      "url": "/datasets/d_01e099752f815ec8979684630de92788/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "jan 2022",
+      "title": "Number of Overstayers arrested from 2011 onwards",
+      "url": "/datasets/d_2ac273742e11d302b033432b8d1a7e32/view",
+      "organization": "ICA"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Advertisements 2019",
+      "url": "/datasets/d_d6567e243a22ed8c0eda89924ea241fa/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1999",
+      "enddate": "dec 1999",
+      "title": "Appointments 1999",
+      "url": "/datasets/d_64e1cca6ac56441224918ca7beb671b7/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2022",
+      "enddate": "dec 2022",
+      "title": "Subsidiary Legislation Supplement 2022",
+      "url": "/datasets/d_049ff52c258a55b1a19dd43083b152cc/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "dec 2021",
+      "title": "Advertisements 2021",
+      "url": "/datasets/d_80057320bd47d6db2cbe34ce56c4b209/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2016",
+      "enddate": "dec 2016",
+      "title": "Notices under other Acts 2016",
+      "url": "/datasets/d_713d857065f7268061eec411f4914e28/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "dec 2003",
+      "title": "Leave 2003",
+      "url": "/datasets/d_f0bba62f35b264dd9b593936eb0b1183/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2002",
+      "title": "Notices under the Constitution 2002",
+      "url": "/datasets/d_b42013f541cfc7ecd7da1fe13b1010ec/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2006",
+      "title": "Notices under the Constitution 2006",
+      "url": "/datasets/d_fffa891c46d59d34b9f82a7fe51a3aa2/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Notices under the Constitution 2000",
+      "url": "/datasets/d_5c7770f6342f1f6a23aa7f1a52ace126/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Notices under other Acts 2000",
+      "url": "/datasets/d_54d9cf1a8e445a4933eaca34d0fdb94d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2021",
+      "enddate": "nov 2021",
+      "title": "Bills Supplement 2021",
+      "url": "/datasets/d_54817022b6086057640ec644f5dee3a3/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2017",
+      "enddate": "dec 2017",
+      "title": "Notices under other Acts 2017",
+      "url": "/datasets/d_c4758144a7a69ade0ff4e4b511bc1e4d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2020",
+      "enddate": "dec 2020",
+      "title": "Advertisements 2020",
+      "url": "/datasets/d_e25c431a2b86c2b9a8935c36e62cafe8/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1999",
+      "enddate": "nov 1999",
+      "title": "Dismissals 1999",
+      "url": "/datasets/d_5604048f6bbb410fd495df3d20dc2797/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2002",
+      "enddate": "dec 2002",
+      "title": "Acts Supplement 2002",
+      "url": "/datasets/d_090331273a9863c256aab9035999a24b/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2020",
+      "url": "/datasets/d_0825bd23f69c0b3f14682eb02751eacb/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2009",
+      "enddate": "dec 2009",
+      "title": "Vacation of Service 2009",
+      "url": "/datasets/d_0f75a6385b579ffde6ce63786a281518/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "dec 2003",
+      "title": "Industrial Relations Supplement 2003",
+      "url": "/datasets/d_ea208f05bce3a133f55426182ea6e810/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Trade Marks Supplement 2002",
+      "url": "/datasets/d_f704aeb858c80c1fbefd0aef8b7604b6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Trade Marks Supplement 2001",
+      "url": "/datasets/d_06a68cdd405e54877ef94d0ea3ad4894/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2013",
+      "title": "Notices under the Constitution 2013",
+      "url": "/datasets/d_86fdd92cec92bc921633f35c82f73008/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2010",
+      "enddate": "dec 2010",
+      "title": "Notices under the Constitution 2010",
+      "url": "/datasets/d_368a8d7d05c38204f8f2ba7123e349c9/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2007",
+      "title": "Subsidiary Legislation Supplement 2007",
+      "url": "/datasets/d_a30412ba54af976a35d2a51620cddf08/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2006",
+      "title": "Subsidiary Legislation Supplement 2006",
+      "url": "/datasets/d_98afd8995647c5cd199eaa752169e55d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2006",
+      "enddate": "dec 2006",
+      "title": "Advertisements 2006",
+      "url": "/datasets/d_837378d554e49c540129b5ced2073ac0/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Notices under other Acts 2019",
+      "url": "/datasets/d_27725f30248a515de46db72ca24973a9/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Trade Marks Supplement 2019",
+      "url": "/datasets/d_1220419212644d8f6e9cff95dc814a9b/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "may 2003",
+      "enddate": "dec 2003",
+      "title": "Statutes 2003",
+      "url": "/datasets/d_488b1f1e4c11af81d46d8e017feb13a9/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2018",
+      "enddate": "dec 2018",
+      "title": "Leave 2018",
+      "url": "/datasets/d_9384ac69df9bb07a3106525abac4d288/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2013",
+      "title": "Leave 2013",
+      "url": "/datasets/d_60bb839328afeaae6de3bea26f3850be/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Death 2016",
+      "url": "/datasets/d_73ee232d05b8de3034eea283919141f1/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Tenders 2005",
+      "url": "/datasets/d_c6ffb8f48b285462aeb60d489c3e7b57/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Treaties Supplement 2019",
+      "url": "/datasets/d_ebf1111621882d63798e391f86eec35a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "feb 2006",
+      "enddate": "oct 2006",
+      "title": "Corrigendum 2006",
+      "url": "/datasets/d_5df718843bdad9bc3d636a1773a52839/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2000",
+      "enddate": "dec 2000",
+      "title": "Statutes 2000",
+      "url": "/datasets/d_b3649a6a9f3cb021984d066eb0fd5ea0/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Trade Marks Supplement 2005",
+      "url": "/datasets/d_f3ade6b9009e467ead173b5cd1b0a4d9/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "dec 2011",
+      "title": "Appointments 2011",
+      "url": "/datasets/d_683bb11a90045856068e96c09d3a642c/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2022",
+      "enddate": "aug 2022",
+      "title": "Government Gazette Supplement 2022",
+      "url": "/datasets/d_eab07c8fd8a5eda117e0bd876383325f/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revocation 2021",
+      "url": "/datasets/d_96be163c915cd689ef8a0bd354c560b9/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revocation 2005",
+      "url": "/datasets/d_cf8baf42a342142f0f00cc7e5c01857b/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Treaties Supplement 2013",
+      "url": "/datasets/d_7c7bf4f653a9f8e4667f47d0e3f5dc6e/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2002",
+      "title": "Subsidiary Legislation Supplement 2002",
+      "url": "/datasets/d_03f8d9260d7aa039180a8a04b631bda6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "feb 2006",
+      "enddate": "jun 2006",
+      "title": "Acts Supplement 2006",
+      "url": "/datasets/d_cf023ac31531d23b684cc9be66dd3ecc/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2013",
+      "title": "Subsidiary Legislation Supplement 2013",
+      "url": "/datasets/d_91912fe2c0f67303a3467784942c67a5/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2012",
+      "enddate": "jan 2012",
+      "title": "Termination of Service 2012",
+      "url": "/datasets/d_b1988bc87ca7d777e3c05e4c396a6641/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2011",
+      "enddate": "nov 2011",
+      "title": "Bills Supplement 2011",
+      "url": "/datasets/d_e7a8be9a875ff3f96977a62e342c448d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2001",
+      "title": "Advertisements 2001",
+      "url": "/datasets/d_012bf5a99327b2fe4c9acee27233c1f5/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "dec 2003",
+      "title": "Notices under the Constitution 2003",
+      "url": "/datasets/d_242d5d982213168e7863e97ba00ea236/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2002",
+      "enddate": "dec 2002",
+      "title": "Advertisements 2002",
+      "url": "/datasets/d_a0b36453ff61ed1ad933b909a4bb1076/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2003",
+      "enddate": "dec 2003",
+      "title": "Death 2003",
+      "url": "/datasets/d_6126567d6208209b72a9a44f68e2463a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 1999",
+      "enddate": "dec 1999",
+      "title": "Notices under other Acts 1999",
+      "url": "/datasets/d_5013b19fae3ddfa79b4b8f9be1004f48/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2013",
+      "enddate": "dec 2013",
+      "title": "Companies Act Notices 2013",
+      "url": "/datasets/d_8a9f956b677825e31b803a239060d250/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2007",
+      "enddate": "dec 2007",
+      "title": "Others 2007",
+      "url": "/datasets/d_6bea0124cb3db0dc96fc02368105cfc2/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2001",
+      "title": "Cessation of Service 2001",
+      "url": "/datasets/d_a2935d41b8c8a6f4b4938c5c1c56709a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2001",
+      "enddate": "dec 2001",
+      "title": "Industrial Relations Supplement 2001",
+      "url": "/datasets/d_5971b614e7961ef64a6af8a62e86848d/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2009",
+      "enddate": "dec 2009",
+      "title": "Leave 2009",
+      "url": "/datasets/d_0174104360d67131c575e16f8911ebe6/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "mar 2005",
+      "enddate": "nov 2005",
+      "title": "Revised Subsidiary Legislation 2005",
+      "url": "/datasets/d_27f294fcfd85f682d3f575b8d2b05b65/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2004",
+      "enddate": "dec 2004",
+      "title": "Dismissals 2004",
+      "url": "/datasets/d_d248786aa485c49fbff1d07a6ad67b28/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": null,
+      "enddate": null,
+      "title": "Revised Subsidiary Legislation 2021",
+      "url": "/datasets/d_d0f1e3185798a51245ac07843822ac2a/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2014",
+      "enddate": "dec 2014",
+      "title": "Audited Reports 2014",
+      "url": "/datasets/d_1e5544428dd2dedb3046341d082c8cdf/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2019",
+      "enddate": "dec 2019",
+      "title": "Notices under the Constitution 2019",
+      "url": "/datasets/d_1edd4e73058aeabd386049792d93a77b/view",
+      "organization": "MDDI"
+    },
+    {
+      "topic": "social",
+      "startdate": "jan 2009",
+      "enddate": "dec 2009",
+      "title": "Acts Supplement 2009",
+      "url": "/datasets/d_035162c462be38f48be145e8e102883a/view",
+      "organization": "MDDI"
+    }
+  ]
+}
